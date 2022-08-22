@@ -1,0 +1,9574 @@
+{
+	"regions": [
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "23242",
+			"kodepos": "23242"
+		},
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "23111",
+			"kodepos": "23111"
+		},
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "23247",
+			"kodepos": "23247"
+		},
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "23244",
+			"kodepos": "23244"
+		},
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "32911",
+			"kodepos": "32911"
+		},
+		{
+			"idkota": "KOTA SABANG",
+			"idkodepos": "23513",
+			"kodepos": "23513"
+		},
+		{
+			"idkota": "KOTA BANDA ACEH",
+			"idkodepos": "23112",
+			"kodepos": "23112"
+		},
+		{
+			"idkota": "KAB. ACEH BESAR",
+			"idkodepos": "23371",
+			"kodepos": "23371"
+		},
+		{
+			"idkota": "KAB. TOBA SAMOSIR",
+			"idkodepos": "22312",
+			"kodepos": "22312"
+		},
+		{
+			"idkota": "KAB. TAPANULI UTARA",
+			"idkodepos": "22411",
+			"kodepos": "22411"
+		},
+		{
+			"idkota": "KAB. TOBA SAMOSIR",
+			"idkodepos": "22316",
+			"kodepos": "22316"
+		},
+		{
+			"idkota": "KAB. HUMBANG HASUNDUTAN",
+			"idkodepos": "22457",
+			"kodepos": "22457"
+		},
+		{
+			"idkota": "KAB. SAMOSIR",
+			"idkodepos": "22395",
+			"kodepos": "22395"
+		},
+		{
+			"idkota": "KAB. TAPANULI UTARA",
+			"idkodepos": "22474",
+			"kodepos": "22474"
+		},
+		{
+			"idkota": "KAB. BIREUEN",
+			"idkodepos": "24211",
+			"kodepos": "24211"
+		},
+		{
+			"idkota": "KAB. ACEH TENGAH",
+			"idkodepos": "24261",
+			"kodepos": "24261"
+		},
+		{
+			"idkota": "KAB. BIREUEN",
+			"idkodepos": "24261",
+			"kodepos": "24261"
+		},
+		{
+			"idkota": "KOTA GUNUNG SITOLI",
+			"idkodepos": "22813",
+			"kodepos": "22813"
+		},
+		{
+			"idkota": "KAB. NIAS SELATAN",
+			"idkodepos": "22865",
+			"kodepos": "22865"
+		},
+		{
+			"idkota": "KAB. KARO",
+			"idkodepos": "22113",
+			"kodepos": "22113"
+		},
+		{
+			"idkota": "KAB. KARO",
+			"idkodepos": "22156",
+			"kodepos": "22156"
+		},
+		{
+			"idkota": "KAB. KARO",
+			"idkodepos": "22115",
+			"kodepos": "22115"
+		},
+		{
+			"idkota": "KAB. DAIRI",
+			"idkodepos": "22211",
+			"kodepos": "22211"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20371",
+			"kodepos": "20371"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20362",
+			"kodepos": "20362"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20411",
+			"kodepos": "20411"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20371",
+			"kodepos": "20371"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20371",
+			"kodepos": "20371"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20511",
+			"kodepos": "20511"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20371",
+			"kodepos": "20371"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20732",
+			"kodepos": "20732"
+		},
+		{
+			"idkota": "KAB. BATUBARA",
+			"idkodepos": "21257",
+			"kodepos": "21257"
+		},
+		{
+			"idkota": "Kab. BATUBARA",
+			"idkodepos": "21256",
+			"kodepos": "21256"
+		},
+		{
+			"idkota": "KAB. BATUBARA",
+			"idkodepos": "21255",
+			"kodepos": "21255"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21184",
+			"kodepos": "21184"
+		},
+		{
+			"idkota": "KOTA LANGSA",
+			"idkodepos": "24411",
+			"kodepos": "24411"
+		},
+		{
+			"idkota": "KAB. ACEH TAMIANG",
+			"idkodepos": "24475",
+			"kodepos": "24475"
+		},
+		{
+			"idkota": "KAB. ACEH TENGGARA",
+			"idkodepos": "24651",
+			"kodepos": "24651"
+		},
+		{
+			"idkota": "KAB. ACEH TIMUR",
+			"idkodepos": "24454",
+			"kodepos": "24454"
+		},
+		{
+			"idkota": "KOTA LHOKSEUMAWE",
+			"idkodepos": "24312",
+			"kodepos": "24312"
+		},
+		{
+			"idkota": "KOTA LHOKSEUMAWE",
+			"idkodepos": "24354",
+			"kodepos": "24354"
+		},
+		{
+			"idkota": "KOTA LHOKSEUMAWE",
+			"idkodepos": "24311",
+			"kodepos": "24311"
+		},
+		{
+			"idkota": "KAB. ACEH UTARA",
+			"idkodepos": "24394",
+			"kodepos": "24394"
+		},
+		{
+			"idkota": "KAB. ACEH UTARA",
+			"idkodepos": "24382",
+			"kodepos": "24382"
+		},
+		{
+			"idkota": "KAB. ACEH BARAT",
+			"idkodepos": "23617",
+			"kodepos": "23617"
+		},
+		{
+			"idkota": "KAB. NAGAN RAYA",
+			"idkodepos": "24261",
+			"kodepos": "24261"
+		},
+		{
+			"idkota": "KAB. ACEH SELATAN",
+			"idkodepos": "23715",
+			"kodepos": "23715"
+		},
+		{
+			"idkota": "KOTA SUBULUSSALAM",
+			"idkodepos": "24782",
+			"kodepos": "24782"
+		},
+		{
+			"idkota": "KAB. ACEH BARAT DAYA",
+			"idkodepos": "23764",
+			"kodepos": "23764"
+		},
+		{
+			"idkota": "KAB. ACEH BARAT",
+			"idkodepos": "23615",
+			"kodepos": "23615"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20151",
+			"kodepos": "20151"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "22316",
+			"kodepos": "22316"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20224",
+			"kodepos": "20224"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20218",
+			"kodepos": "20218"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20146",
+			"kodepos": "20146"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20217",
+			"kodepos": "20217"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20111",
+			"kodepos": "20111"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20152",
+			"kodepos": "20152"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20212",
+			"kodepos": "20212"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20115",
+			"kodepos": "20115"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20111",
+			"kodepos": "20111"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20214",
+			"kodepos": "20214"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20214",
+			"kodepos": "20214"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20239",
+			"kodepos": "20239"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20212",
+			"kodepos": "20212"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20152",
+			"kodepos": "20152"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20216",
+			"kodepos": "20216"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20212",
+			"kodepos": "20212"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20355",
+			"kodepos": "20355"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20111",
+			"kodepos": "20111"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20211",
+			"kodepos": "20211"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20142",
+			"kodepos": "20142"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20238",
+			"kodepos": "20238"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20412",
+			"kodepos": "20412"
+		},
+		{
+			"idkota": "KOTA PADANG SIDEMPUAN",
+			"idkodepos": "22719",
+			"kodepos": "22719"
+		},
+		{
+			"idkota": "KAB. MANDAILING NATAL",
+			"idkodepos": "22913",
+			"kodepos": "22913"
+		},
+		{
+			"idkota": "KAB. PADANG LAWAS",
+			"idkodepos": "22763",
+			"kodepos": "22763"
+		},
+		{
+			"idkota": "KAB. PADANG LAWAS UTARA",
+			"idkodepos": "22753",
+			"kodepos": "22753"
+		},
+		{
+			"idkota": "KAB. TAPANULI SELATAN",
+			"idkodepos": "22718",
+			"kodepos": "22718"
+		},
+		{
+			"idkota": "KOTA PEMATANGSIANTAR",
+			"idkodepos": "21117",
+			"kodepos": "21117"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21184",
+			"kodepos": "21184"
+		},
+		{
+			"idkota": "KOTA PEMATANGSIANTAR",
+			"idkodepos": "21132",
+			"kodepos": "21132"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21162",
+			"kodepos": "21162"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21174",
+			"kodepos": "21174"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21167",
+			"kodepos": "21167"
+		},
+		{
+			"idkota": "KAB. SIMALUNGUN",
+			"idkodepos": "21155",
+			"kodepos": "21155"
+		},
+		{
+			"idkota": "KAB. LABUHANBATU",
+			"idkodepos": "21412",
+			"kodepos": "21412"
+		},
+		{
+			"idkota": "KAB. LABUHANBATU SELATAN",
+			"idkodepos": "21464",
+			"kodepos": "21464"
+		},
+		{
+			"idkota": "KAB. LABUHANBATU UTARA",
+			"idkodepos": "21457",
+			"kodepos": "21457"
+		},
+		{
+			"idkota": "KAB. LABUHANBATU SELATAN",
+			"idkodepos": "21464",
+			"kodepos": "21464"
+		},
+		{
+			"idkota": "KAB. LABUHANBATU",
+			"idkodepos": "21451",
+			"kodepos": "21451"
+		},
+		{
+			"idkota": "KOTA SIBOLGA",
+			"idkodepos": "22522",
+			"kodepos": "22522"
+		},
+		{
+			"idkota": "KAB. TAPANULI TENGAH",
+			"idkodepos": "22611",
+			"kodepos": "22611"
+		},
+		{
+			"idkota": "KAB. PIDIE",
+			"idkodepos": "24112",
+			"kodepos": "24112"
+		},
+		{
+			"idkota": "KAB. PIDIE JAYA",
+			"idkodepos": "24186",
+			"kodepos": "24186"
+		},
+		{
+			"idkota": "KAB. PIDIE",
+			"idkodepos": "24152",
+			"kodepos": "24152"
+		},
+		{
+			"idkota": "KOTA TANJUNGBALAI",
+			"idkodepos": "21311",
+			"kodepos": "21311"
+		},
+		{
+			"idkota": "KAB. ASAHAN",
+			"idkodepos": "21216",
+			"kodepos": "21216"
+		},
+		{
+			"idkota": "KAB. ASAHAN",
+			"idkodepos": "21312",
+			"kodepos": "21312"
+		},
+		{
+			"idkota": "KOTA TEBING TINGGI",
+			"idkodepos": "20632",
+			"kodepos": "20632"
+		},
+		{
+			"idkota": "KAB. SERDANG BEDAGAI",
+			"idkodepos": "20995",
+			"kodepos": "20995"
+		},
+		{
+			"idkota": "KAB. SERDANG BEDAGAI",
+			"idkodepos": "20986",
+			"kodepos": "20986"
+		},
+		{
+			"idkota": "KAB. SERDANG BEDAGAI",
+			"idkodepos": "20991",
+			"kodepos": "20991"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20585",
+			"kodepos": "20585"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20155",
+			"kodepos": "20155"
+		},
+		{
+			"idkota": "KOTA BINJAI",
+			"idkodepos": "20731",
+			"kodepos": "20731"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20122",
+			"kodepos": "20122"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20155",
+			"kodepos": "20155"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20127",
+			"kodepos": "20127"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20132",
+			"kodepos": "20132"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20154",
+			"kodepos": "20154"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20156",
+			"kodepos": "20156"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20122",
+			"kodepos": "20122"
+		},
+		{
+			"idkota": "KAB. LANGKAT",
+			"idkodepos": "20811",
+			"kodepos": "20811"
+		},
+		{
+			"idkota": "KAB. LANGKAT",
+			"idkodepos": "20857",
+			"kodepos": "20857"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20123",
+			"kodepos": "20123"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20112",
+			"kodepos": "20112"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20112",
+			"kodepos": "20112"
+		},
+		{
+			"idkota": "KAB. DELI SERDANG",
+			"idkodepos": "20351",
+			"kodepos": "20351"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20141",
+			"kodepos": "20141"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20112",
+			"kodepos": "20112"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20132",
+			"kodepos": "20132"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20214",
+			"kodepos": "20214"
+		},
+		{
+			"idkota": "KOTA MEDAN",
+			"idkodepos": "20112",
+			"kodepos": "20112"
+		},
+		{
+			"idkota": "KOTA BUKITTINGGI",
+			"idkodepos": "26111",
+			"kodepos": "26111"
+		},
+		{
+			"idkota": "KOTA PADANG PANJANG",
+			"idkodepos": "27115",
+			"kodepos": "27115"
+		},
+		{
+			"idkota": "KOTA BUKITTINGGI",
+			"idkodepos": "26131",
+			"kodepos": "26131"
+		},
+		{
+			"idkota": "KAB. PASAMAN",
+			"idkodepos": "26318",
+			"kodepos": "26318"
+		},
+		{
+			"idkota": "KAB. AGAM",
+			"idkodepos": "26452",
+			"kodepos": "26452"
+		},
+		{
+			"idkota": "KOTA BUKITTINGGI",
+			"idkodepos": "26113",
+			"kodepos": "26113"
+		},
+		{
+			"idkota": "KAB. AGAM",
+			"idkodepos": "26181",
+			"kodepos": "26181"
+		},
+		{
+			"idkota": "KOTA BUKITTINGGI",
+			"idkodepos": "26117",
+			"kodepos": "26117"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29466",
+			"kodepos": "29466"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29433",
+			"kodepos": "29433"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29433",
+			"kodepos": "29433"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29461",
+			"kodepos": "29461"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29424",
+			"kodepos": "29424"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29444",
+			"kodepos": "29444"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29484",
+			"kodepos": "29484"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29428",
+			"kodepos": "29428"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29451",
+			"kodepos": "29451"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29439",
+			"kodepos": "29439"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29467",
+			"kodepos": "29467"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29458",
+			"kodepos": "29458"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29424",
+			"kodepos": "29424"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29437",
+			"kodepos": "29437"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29432",
+			"kodepos": "29432"
+		},
+		{
+			"idkota": "KOTA BATAM",
+			"idkodepos": "29425",
+			"kodepos": "29425"
+		},
+		{
+			"idkota": "KOTA DUMAI",
+			"idkodepos": "28813",
+			"kodepos": "28813"
+		},
+		{
+			"idkota": "KAB. BENGKALIS",
+			"idkodepos": "28712",
+			"kodepos": "28712"
+		},
+		{
+			"idkota": "KAB. BENGKALIS",
+			"idkodepos": "28884",
+			"kodepos": "28884"
+		},
+		{
+			"idkota": "KAB. ROKAN HILIR",
+			"idkodepos": "28992",
+			"kodepos": "28992"
+		},
+		{
+			"idkota": "KAB. ROKAN HILIR",
+			"idkodepos": "28911",
+			"kodepos": "28911"
+		},
+		{
+			"idkota": "KAB. BENGKALIS",
+			"idkodepos": "28784",
+			"kodepos": "28784"
+		},
+		{
+			"idkota": "KOTA DUMAI",
+			"idkodepos": "28812",
+			"kodepos": "28812"
+		},
+		{
+			"idkota": "KAB. BENGKALIS",
+			"idkodepos": "28712",
+			"kodepos": "28712"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28141",
+			"kodepos": "28141"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28266",
+			"kodepos": "28266"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28282",
+			"kodepos": "28282"
+		},
+		{
+			"idkota": "KAB. PELALAWAN",
+			"idkodepos": "28381",
+			"kodepos": "28381"
+		},
+		{
+			"idkota": "KAB. SIAK",
+			"idkodepos": "28621",
+			"kodepos": "28621"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28127",
+			"kodepos": "28127"
+		},
+		{
+			"idkota": "KAB. KAMPAR",
+			"idkodepos": "28411",
+			"kodepos": "28411"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28112",
+			"kodepos": "28112"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28155",
+			"kodepos": "28155"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28154",
+			"kodepos": "28154"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28293",
+			"kodepos": "28293"
+		},
+		{
+			"idkota": "KAB. ROKAN HULU",
+			"idkodepos": "28559",
+			"kodepos": "28559"
+		},
+		{
+			"idkota": "KAB. ROKAN HULU",
+			"idkodepos": "28557",
+			"kodepos": "28557"
+		},
+		{
+			"idkota": "KAB. SIAK",
+			"idkodepos": "28686",
+			"kodepos": "28686"
+		},
+		{
+			"idkota": "KAB. SIAK",
+			"idkodepos": "28772",
+			"kodepos": "28772"
+		},
+		{
+			"idkota": "KAB. KAMPAR",
+			"idkodepos": "28371",
+			"kodepos": "28371"
+		},
+		{
+			"idkota": "KAB. KAMPAR",
+			"idkodepos": "28464",
+			"kodepos": "28464"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28282",
+			"kodepos": "28282"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28282",
+			"kodepos": "28282"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28125",
+			"kodepos": "28125"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28112",
+			"kodepos": "28112"
+		},
+		{
+			"idkota": "KOTA PEKANBARU",
+			"idkodepos": "28294",
+			"kodepos": "28294"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25211",
+			"kodepos": "25211"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25132",
+			"kodepos": "25132"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25143",
+			"kodepos": "25143"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25119",
+			"kodepos": "25119"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25166",
+			"kodepos": "25166"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25112",
+			"kodepos": "25112"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25231",
+			"kodepos": "25231"
+		},
+		{
+			"idkota": "KOTA PARIAMAN",
+			"idkodepos": "25512",
+			"kodepos": "25512"
+		},
+		{
+			"idkota": "KAB. PASAMAN",
+			"idkodepos": "26566",
+			"kodepos": "26566"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25112",
+			"kodepos": "25112"
+		},
+		{
+			"idkota": "KAB. PADANG PARIAMAN",
+			"idkodepos": "25581",
+			"kodepos": "25581"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN MENTAWAI",
+			"idkodepos": "25392",
+			"kodepos": "25392"
+		},
+		{
+			"idkota": "KAB. PASAMAN BARAT",
+			"idkodepos": "26572",
+			"kodepos": "26572"
+		},
+		{
+			"idkota": "KAB. PESISIR SELATAN",
+			"idkodepos": "25651",
+			"kodepos": "25651"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25161",
+			"kodepos": "25161"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25112",
+			"kodepos": "25112"
+		},
+		{
+			"idkota": "KOTA PADANG",
+			"idkodepos": "25166",
+			"kodepos": "25166"
+		},
+		{
+			"idkota": "KOTA PAYAKUMBUH",
+			"idkodepos": "26222",
+			"kodepos": "26222"
+		},
+		{
+			"idkota": "KAB. TANAH DATAR",
+			"idkodepos": "27212",
+			"kodepos": "27212"
+		},
+		{
+			"idkota": "KAB. LIMA PULUH KOTA",
+			"idkodepos": "26253",
+			"kodepos": "26253"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HULU",
+			"idkodepos": "29311",
+			"kodepos": "29311"
+		},
+		{
+			"idkota": "KAB. KUANTAN SINGINGI",
+			"idkodepos": "29362",
+			"kodepos": "29362"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HULU",
+			"idkodepos": "29352",
+			"kodepos": "29352"
+		},
+		{
+			"idkota": "KAB. PELALAWAN",
+			"idkodepos": "28382",
+			"kodepos": "28382"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HULU",
+			"idkodepos": "29371",
+			"kodepos": "29371"
+		},
+		{
+			"idkota": "KAB. PELALAWAN",
+			"idkodepos": "28382",
+			"kodepos": "28382"
+		},
+		{
+			"idkota": "KOTA SOLOK",
+			"idkodepos": "27324",
+			"kodepos": "27324"
+		},
+		{
+			"idkota": "KOTA SAWAHLUNTO",
+			"idkodepos": "27411",
+			"kodepos": "27411"
+		},
+		{
+			"idkota": "KAB. DHARMASRAYA",
+			"idkodepos": "27681",
+			"kodepos": "27681"
+		},
+		{
+			"idkota": "KAB. SOLOK",
+			"idkodepos": "27371",
+			"kodepos": "27371"
+		},
+		{
+			"idkota": "KAB. SAWAHLUNTO/SIJUNJUNG",
+			"idkodepos": "27553",
+			"kodepos": "27553"
+		},
+		{
+			"idkota": "KAB. SOLOK SELATAN",
+			"idkodepos": "27778",
+			"kodepos": "27778"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN MERANTI",
+			"idkodepos": "28753",
+			"kodepos": "28753"
+		},
+		{
+			"idkota": "KOTA SUNGAI PENUH",
+			"idkodepos": "37111",
+			"kodepos": "37111"
+		},
+		{
+			"idkota": "KAB. KERINCI",
+			"idkodepos": "37163",
+			"kodepos": "37163"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29212",
+			"kodepos": "29212"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29255",
+			"kodepos": "29255"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29255",
+			"kodepos": "29255"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29261",
+			"kodepos": "29261"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29274",
+			"kodepos": "29274"
+		},
+		{
+			"idkota": "KAB. INDRAGIRI HILIR",
+			"idkodepos": "29256",
+			"kodepos": "29256"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29661",
+			"kodepos": "29661"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29662",
+			"kodepos": "29662"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29663",
+			"kodepos": "29663"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29661",
+			"kodepos": "29661"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29661",
+			"kodepos": "29661"
+		},
+		{
+			"idkota": "KAB. KARIMUN",
+			"idkodepos": "29663",
+			"kodepos": "29663"
+		},
+		{
+			"idkota": "KOTA TANJUNG PINANG",
+			"idkodepos": "29111",
+			"kodepos": "29111"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN ANAMBAS",
+			"idkodepos": "29791",
+			"kodepos": "29791"
+		},
+		{
+			"idkota": "KAB. BINTAN",
+			"idkodepos": "29152",
+			"kodepos": "29152"
+		},
+		{
+			"idkota": "KOTA TANJUNG PINANG",
+			"idkodepos": "29125",
+			"kodepos": "29125"
+		},
+		{
+			"idkota": "KOTA TANJUNG PINANG",
+			"idkodepos": "29113",
+			"kodepos": "29113"
+		},
+		{
+			"idkota": "KAB. BINTAN",
+			"idkodepos": "29151",
+			"kodepos": "29151"
+		},
+		{
+			"idkota": "KAB. LINGGA",
+			"idkodepos": "29871",
+			"kodepos": "29871"
+		},
+		{
+			"idkota": "KAB. NATUNA",
+			"idkodepos": "29783",
+			"kodepos": "29783"
+		},
+		{
+			"idkota": "KOTA BENGKULU",
+			"idkodepos": "38223",
+			"kodepos": "38223"
+		},
+		{
+			"idkota": "KAB. BENGKULU SELATAN",
+			"idkodepos": "38513",
+			"kodepos": "38513"
+		},
+		{
+			"idkota": "KAB. REJANG LEBONG",
+			"idkodepos": "39112",
+			"kodepos": "39112"
+		},
+		{
+			"idkota": "KAB. BENGKULU UTARA",
+			"idkodepos": "38612",
+			"kodepos": "38612"
+		},
+		{
+			"idkota": "KOTA BENGKULU",
+			"idkodepos": "38229",
+			"kodepos": "38229"
+		},
+		{
+			"idkota": "KAB. MUKOMUKO",
+			"idkodepos": "38768",
+			"kodepos": "38768"
+		},
+		{
+			"idkota": "KAB. SELUMA",
+			"idkodepos": "38876",
+			"kodepos": "38876"
+		},
+		{
+			"idkota": "KAB. KAUR",
+			"idkodepos": "38963",
+			"kodepos": "38963"
+		},
+		{
+			"idkota": "KAB. KEPAHIANG",
+			"idkodepos": "39372",
+			"kodepos": "39372"
+		},
+		{
+			"idkota": "KAB. BENGKULU UTARA",
+			"idkodepos": "38361",
+			"kodepos": "38361"
+		},
+		{
+			"idkota": "KOTA BENGKULU",
+			"idkodepos": "38122",
+			"kodepos": "38122"
+		},
+		{
+			"idkota": "KOTA BENGKULU",
+			"idkodepos": "38211",
+			"kodepos": "38211"
+		},
+		{
+			"idkota": "KAB. MERANGIN",
+			"idkodepos": "37314",
+			"kodepos": "37314"
+		},
+		{
+			"idkota": "KAB. SAROLANGUN",
+			"idkodepos": "37381",
+			"kodepos": "37381"
+		},
+		{
+			"idkota": "KAB. MERANGIN",
+			"idkodepos": "37354",
+			"kodepos": "37354"
+		},
+		{
+			"idkota": "KAB. SAROLANGUN",
+			"idkodepos": "37482",
+			"kodepos": "37482"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ULU",
+			"idkodepos": "32115",
+			"kodepos": "32115"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ULU SELATAN",
+			"idkodepos": "32211",
+			"kodepos": "32211"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ULU TIMUR",
+			"idkodepos": "32382",
+			"kodepos": "32382"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ULU TIMUR",
+			"idkodepos": "32181",
+			"kodepos": "32181"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36113",
+			"kodepos": "36113"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36113",
+			"kodepos": "36113"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36124",
+			"kodepos": "36124"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36138",
+			"kodepos": "36138"
+		},
+		{
+			"idkota": "KAB. MUARO JAMBI",
+			"idkodepos": "36381",
+			"kodepos": "36381"
+		},
+		{
+			"idkota": "KAB. BATANGHARI",
+			"idkodepos": "36614",
+			"kodepos": "36614"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36129",
+			"kodepos": "36129"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36148",
+			"kodepos": "36148"
+		},
+		{
+			"idkota": "KOTA JAMBI",
+			"idkodepos": "36142",
+			"kodepos": "36142"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ILIR",
+			"idkodepos": "30614",
+			"kodepos": "30614"
+		},
+		{
+			"idkota": "KAB. OGAN KOMERING ILIR",
+			"idkodepos": "31662",
+			"kodepos": "31662"
+		},
+		{
+			"idkota": "KAB. TANJUNG JABUNG BARAT",
+			"idkodepos": "36512",
+			"kodepos": "36512"
+		},
+		{
+			"idkota": "KAB. TANJUNG JABUNG TIMUR",
+			"idkodepos": "36761",
+			"kodepos": "36761"
+		},
+		{
+			"idkota": "KAB. LAMPUNG UTARA",
+			"idkodepos": "34511",
+			"kodepos": "34511"
+		},
+		{
+			"idkota": "KAB. LAMPUNG UTARA",
+			"idkodepos": "34556",
+			"kodepos": "34556"
+		},
+		{
+			"idkota": "KAB. LAMPUNG BARAT",
+			"idkodepos": "34715",
+			"kodepos": "34715"
+		},
+		{
+			"idkota": "KAB. WAY KANAN",
+			"idkodepos": "34761",
+			"kodepos": "34761"
+		},
+		{
+			"idkota": "KAB. PESISIR BARAT",
+			"idkodepos": "34874",
+			"kodepos": "34874"
+		},
+		{
+			"idkota": "KAB. LAMPUNG UTARA",
+			"idkodepos": "34554",
+			"kodepos": "34554"
+		},
+		{
+			"idkota": "KAB. TULANG BAWANG BARAT",
+			"idkodepos": "34594",
+			"kodepos": "34594"
+		},
+		{
+			"idkota": "KOTA LUBUKLINGGAU",
+			"idkodepos": "31621",
+			"kodepos": "31621"
+		},
+		{
+			"idkota": "KAB. LAHAT",
+			"idkodepos": "31411",
+			"kodepos": "31411"
+		},
+		{
+			"idkota": "KOTA PAGAR ALAM",
+			"idkodepos": "31512",
+			"kodepos": "31512"
+		},
+		{
+			"idkota": "KAB. EMPAT LAWANG",
+			"idkodepos": "31453",
+			"kodepos": "31453"
+		},
+		{
+			"idkota": "KAB. MUSI RAWAS UTARA",
+			"idkodepos": "31654",
+			"kodepos": "31654"
+		},
+		{
+			"idkota": "KAB. MUSI RAWAS",
+			"idkodepos": "31662",
+			"kodepos": "31662"
+		},
+		{
+			"idkota": "KOTA LUBUKLINGGAU",
+			"idkodepos": "31626",
+			"kodepos": "31626"
+		},
+		{
+			"idkota": "KOTA METRO",
+			"idkodepos": "34113",
+			"kodepos": "34113"
+		},
+		{
+			"idkota": "KAB. LAMPUNG TENGAH",
+			"idkodepos": "34162",
+			"kodepos": "34162"
+		},
+		{
+			"idkota": "KAB. TULANG BAWANG",
+			"idkodepos": "34111",
+			"kodepos": "34111"
+		},
+		{
+			"idkota": "KAB. LAMPUNG TIMUR",
+			"idkodepos": "34396",
+			"kodepos": "34396"
+		},
+		{
+			"idkota": "KAB. MESUJI",
+			"idkodepos": "34396",
+			"kodepos": "34396"
+		},
+		{
+			"idkota": "KAB. BUNGO",
+			"idkodepos": "37212",
+			"kodepos": "37212"
+		},
+		{
+			"idkota": "KAB. TEBO",
+			"idkodepos": "37271",
+			"kodepos": "37271"
+		},
+		{
+			"idkota": "KAB. BUNGO",
+			"idkodepos": "37257",
+			"kodepos": "37257"
+		},
+		{
+			"idkota": "KAB. BUNGO",
+			"idkodepos": "37252",
+			"kodepos": "37252"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30126",
+			"kodepos": "30126"
+		},
+		{
+			"idkota": "KAB. BANYUASIN",
+			"idkodepos": "30738",
+			"kodepos": "30738"
+		},
+		{
+			"idkota": "KAB. MUSI BANYUASIN",
+			"idkodepos": "30755",
+			"kodepos": "30755"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30126",
+			"kodepos": "30126"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30151",
+			"kodepos": "30151"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30118",
+			"kodepos": "30118"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30118",
+			"kodepos": "30118"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30126",
+			"kodepos": "30126"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30114",
+			"kodepos": "30114"
+		},
+		{
+			"idkota": "KAB. MUSI BANYUASIN",
+			"idkodepos": "30711",
+			"kodepos": "30711"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30756",
+			"kodepos": "30756"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30151",
+			"kodepos": "30151"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30114",
+			"kodepos": "30114"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30257",
+			"kodepos": "30257"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30164",
+			"kodepos": "30164"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30151",
+			"kodepos": "30151"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30126",
+			"kodepos": "30126"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30139",
+			"kodepos": "30139"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30251",
+			"kodepos": "30251"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30268",
+			"kodepos": "30268"
+		},
+		{
+			"idkota": "KAB. OGAN ILIR",
+			"idkodepos": "30662",
+			"kodepos": "30662"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30114",
+			"kodepos": "30114"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30761",
+			"kodepos": "30761"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30125",
+			"kodepos": "30125"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30122",
+			"kodepos": "30122"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30155",
+			"kodepos": "30155"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30125",
+			"kodepos": "30125"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30124",
+			"kodepos": "30124"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30125",
+			"kodepos": "30125"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30122",
+			"kodepos": "30122"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30258",
+			"kodepos": "30258"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30268",
+			"kodepos": "30268"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30161",
+			"kodepos": "30161"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30138",
+			"kodepos": "30138"
+		},
+		{
+			"idkota": "KOTA PALEMBANG",
+			"idkodepos": "30151",
+			"kodepos": "30151"
+		},
+		{
+			"idkota": "KOTA PRABUMULIH",
+			"idkodepos": "31121",
+			"kodepos": "31121"
+		},
+		{
+			"idkota": "KAB. LEMATANG ILIR OGAN TENGAH",
+			"idkodepos": "31712",
+			"kodepos": "31712"
+		},
+		{
+			"idkota": "KAB. LEMATANG ILIR OGAN TENGAH",
+			"idkodepos": "31300",
+			"kodepos": "31300"
+		},
+		{
+			"idkota": "KOTA PRABUMULIH",
+			"idkodepos": "31121",
+			"kodepos": "31121"
+		},
+		{
+			"idkota": "KOTA PANGKAL PINANG",
+			"idkodepos": "33128",
+			"kodepos": "33128"
+		},
+		{
+			"idkota": "KAB. BANGKA",
+			"idkodepos": "33211",
+			"kodepos": "33211"
+		},
+		{
+			"idkota": "KAB. BELITUNG",
+			"idkodepos": "33411",
+			"kodepos": "33411"
+		},
+		{
+			"idkota": "KAB. BANGKA TENGAH",
+			"idkodepos": "33181",
+			"kodepos": "33181"
+		},
+		{
+			"idkota": "KAB. BELITUNG TIMUR",
+			"idkodepos": "33128",
+			"kodepos": "33128"
+		},
+		{
+			"idkota": "KAB. BANGKA BARAT",
+			"idkodepos": "33311",
+			"kodepos": "33311"
+		},
+		{
+			"idkota": "KAB. BANGKA SELATAN",
+			"idkodepos": "33783",
+			"kodepos": "33783"
+		},
+		{
+			"idkota": "KOTA PANGKAL PINANG",
+			"idkodepos": "33114",
+			"kodepos": "33114"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35119",
+			"kodepos": "35119"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35116",
+			"kodepos": "35116"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35131",
+			"kodepos": "35131"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "34541",
+			"kodepos": "34541"
+		},
+		{
+			"idkota": "KAB. LAMPUNG SELATAN",
+			"idkodepos": "35511",
+			"kodepos": "35511"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35223",
+			"kodepos": "35223"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35145",
+			"kodepos": "35145"
+		},
+		{
+			"idkota": "KAB. PRINGSEWU",
+			"idkodepos": "35373",
+			"kodepos": "35373"
+		},
+		{
+			"idkota": "KAB. LAMPUNG SELATAN",
+			"idkodepos": "35364",
+			"kodepos": "35364"
+		},
+		{
+			"idkota": "KAB. TANGGAMUS",
+			"idkodepos": "35677",
+			"kodepos": "35677"
+		},
+		{
+			"idkota": "KAB. PESAWARAN",
+			"idkodepos": "35366",
+			"kodepos": "35366"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "43151",
+			"kodepos": "43151"
+		},
+		{
+			"idkota": "KAB. LAMPUNG SELATAN",
+			"idkodepos": "35353",
+			"kodepos": "35353"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35111",
+			"kodepos": "35111"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35131",
+			"kodepos": "35131"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35153",
+			"kodepos": "35153"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35148",
+			"kodepos": "35148"
+		},
+		{
+			"idkota": "KOTA BANDAR LAMPUNG",
+			"idkodepos": "35158",
+			"kodepos": "35158"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40117",
+			"kodepos": "40117"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40113",
+			"kodepos": "40113"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40113",
+			"kodepos": "40113"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40122",
+			"kodepos": "40122"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40255",
+			"kodepos": "40255"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40252",
+			"kodepos": "40252"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40125",
+			"kodepos": "40125"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40125",
+			"kodepos": "40125"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40275",
+			"kodepos": "40275"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40285",
+			"kodepos": "40285"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40614",
+			"kodepos": "40614"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40133",
+			"kodepos": "40133"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40286",
+			"kodepos": "40286"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40291",
+			"kodepos": "40291"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40231",
+			"kodepos": "40231"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40273",
+			"kodepos": "40273"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40266",
+			"kodepos": "40266"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40293",
+			"kodepos": "40293"
+		},
+		{
+			"idkota": "KOTA BANJAR",
+			"idkodepos": "46301",
+			"kodepos": "46301"
+		},
+		{
+			"idkota": "KAB. PANGANDARAN",
+			"idkodepos": "46396",
+			"kodepos": "46396"
+		},
+		{
+			"idkota": "KAB. CIAMIS",
+			"idkodepos": "46383",
+			"kodepos": "46383"
+		},
+		{
+			"idkota": "KAB. CIANJUR",
+			"idkodepos": "43215",
+			"kodepos": "43215"
+		},
+		{
+			"idkota": "KAB. CIANJUR",
+			"idkodepos": "43253",
+			"kodepos": "43253"
+		},
+		{
+			"idkota": "KAB. CIANJUR",
+			"idkodepos": "43282",
+			"kodepos": "43282"
+		},
+		{
+			"idkota": "KAB. CIANJUR",
+			"idkodepos": "43267",
+			"kodepos": "43267"
+		},
+		{
+			"idkota": "KAB. CIANJUR",
+			"idkodepos": "43211",
+			"kodepos": "43211"
+		},
+		{
+			"idkota": "KOTA CIREBON",
+			"idkodepos": "45111",
+			"kodepos": "45111"
+		},
+		{
+			"idkota": "KOTA CIREBON",
+			"idkodepos": "45154",
+			"kodepos": "45154"
+		},
+		{
+			"idkota": "KOTA CIREBON",
+			"idkodepos": "45123",
+			"kodepos": "45123"
+		},
+		{
+			"idkota": "KAB. CIREBON",
+			"idkodepos": "45161",
+			"kodepos": "45161"
+		},
+		{
+			"idkota": "KAB. CIREBON",
+			"idkodepos": "45192",
+			"kodepos": "45192"
+		},
+		{
+			"idkota": "KAB. CIREBON",
+			"idkodepos": "45611",
+			"kodepos": "45611"
+		},
+		{
+			"idkota": "KOTA CIREBON",
+			"idkodepos": "45116",
+			"kodepos": "45116"
+		},
+		{
+			"idkota": "KOTA CIREBON",
+			"idkodepos": "45141",
+			"kodepos": "45141"
+		},
+		{
+			"idkota": "KAB. CIREBON",
+			"idkodepos": "45183",
+			"kodepos": "45183"
+		},
+		{
+			"idkota": "KAB. CIREBON",
+			"idkodepos": "45114",
+			"kodepos": "45114"
+		},
+		{
+			"idkota": "KAB. INDRAMAYU",
+			"idkodepos": "45213",
+			"kodepos": "45213"
+		},
+		{
+			"idkota": "KAB. INDRAMAYU",
+			"idkodepos": "45273",
+			"kodepos": "45273"
+		},
+		{
+			"idkota": "KAB. INDRAMAYU",
+			"idkodepos": "45257",
+			"kodepos": "45257"
+		},
+		{
+			"idkota": "Kab. Indramayu",
+			"idkodepos": "45264",
+			"kodepos": "45264"
+		},
+		{
+			"idkota": "KAB. INDRAMAYU",
+			"idkodepos": "45283",
+			"kodepos": "45283"
+		},
+		{
+			"idkota": "KAB. KUNINGAN",
+			"idkodepos": "45511",
+			"kodepos": "45511"
+		},
+		{
+			"idkota": "KAB. MAJALENGKA",
+			"idkodepos": "45466",
+			"kodepos": "45466"
+		},
+		{
+			"idkota": "KAB. MAJALENGKA",
+			"idkodepos": "45451",
+			"kodepos": "45451"
+		},
+		{
+			"idkota": "KAB. MAJALENGKA",
+			"idkodepos": "45454",
+			"kodepos": "45454"
+		},
+		{
+			"idkota": "KAB. KUNINGAN",
+			"idkodepos": "45556",
+			"kodepos": "45556"
+		},
+		{
+			"idkota": "KAB. MAJALENGKA",
+			"idkodepos": "45454",
+			"kodepos": "45454"
+		},
+		{
+			"idkota": "KAB. MAJALENGKA",
+			"idkodepos": "45457",
+			"kodepos": "45457"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "44117",
+			"kodepos": "44117"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "44171",
+			"kodepos": "44171"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "44175",
+			"kodepos": "44175"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "44186",
+			"kodepos": "44186"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "40231",
+			"kodepos": "40231"
+		},
+		{
+			"idkota": "KAB. GARUT",
+			"idkodepos": "44112",
+			"kodepos": "44112"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40117",
+			"kodepos": "40117"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40171",
+			"kodepos": "40171"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40253",
+			"kodepos": "40253"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40123",
+			"kodepos": "40123"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40125",
+			"kodepos": "40125"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40255",
+			"kodepos": "40255"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40225",
+			"kodepos": "40225"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40213",
+			"kodepos": "40213"
+		},
+		{
+			"idkota": "KOTA CIMAHI",
+			"idkodepos": "40513",
+			"kodepos": "40513"
+		},
+		{
+			"idkota": "KAB. BANDUNG BARAT",
+			"idkodepos": "40553",
+			"kodepos": "40553"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40561",
+			"kodepos": "40561"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40252",
+			"kodepos": "40252"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40173",
+			"kodepos": "40173"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40234",
+			"kodepos": "40234"
+		},
+		{
+			"idkota": "KOTA CIMAHI",
+			"idkodepos": "40521",
+			"kodepos": "40521"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40288",
+			"kodepos": "40288"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40222",
+			"kodepos": "40222"
+		},
+		{
+			"idkota": "KAB. BANDUNG BARAT",
+			"idkodepos": "40561",
+			"kodepos": "40561"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40286",
+			"kodepos": "40286"
+		},
+		{
+			"idkota": "KOTA CIMAHI",
+			"idkodepos": "40524",
+			"kodepos": "40524"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40261",
+			"kodepos": "40261"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40241",
+			"kodepos": "40241"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40382",
+			"kodepos": "40382"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40911",
+			"kodepos": "40911"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40258",
+			"kodepos": "40258"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40377",
+			"kodepos": "40377"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40395",
+			"kodepos": "40395"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40624",
+			"kodepos": "40624"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40226",
+			"kodepos": "40226"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40973",
+			"kodepos": "40973"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40921",
+			"kodepos": "40921"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40287",
+			"kodepos": "40287"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40381",
+			"kodepos": "40381"
+		},
+		{
+			"idkota": "KAB. BANDUNG",
+			"idkodepos": "40239",
+			"kodepos": "40239"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40132",
+			"kodepos": "40132"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40132",
+			"kodepos": "40132"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40152",
+			"kodepos": "40152"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40132",
+			"kodepos": "40132"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40131",
+			"kodepos": "40131"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40132",
+			"kodepos": "40132"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40132",
+			"kodepos": "40132"
+		},
+		{
+			"idkota": "KAB. SUMEDANG",
+			"idkodepos": "45363",
+			"kodepos": "45363"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40135",
+			"kodepos": "40135"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40154",
+			"kodepos": "40154"
+		},
+		{
+			"idkota": "KAB. BANDUNG BARAT",
+			"idkodepos": "40391",
+			"kodepos": "40391"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40162",
+			"kodepos": "40162"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40124",
+			"kodepos": "40124"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40164",
+			"kodepos": "40164"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40162",
+			"kodepos": "40162"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40143",
+			"kodepos": "40143"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40611",
+			"kodepos": "40611"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40184",
+			"kodepos": "40184"
+		},
+		{
+			"idkota": "KOTA BANDUNG",
+			"idkodepos": "40141",
+			"kodepos": "40141"
+		},
+		{
+			"idkota": "KAB. PURWAKARTA",
+			"idkodepos": "41114",
+			"kodepos": "41114"
+		},
+		{
+			"idkota": "KAB. PURWAKARTA",
+			"idkodepos": "41162",
+			"kodepos": "41162"
+		},
+		{
+			"idkota": "KAB. PURWAKARTA",
+			"idkodepos": "41152",
+			"kodepos": "41152"
+		},
+		{
+			"idkota": "KAB. PURWAKARTA",
+			"idkodepos": "41152",
+			"kodepos": "41152"
+		},
+		{
+			"idkota": "KAB. PURWAKARTA",
+			"idkodepos": "41181",
+			"kodepos": "41181"
+		},
+		{
+			"idkota": "KAB. SUMEDANG",
+			"idkodepos": "45312",
+			"kodepos": "45312"
+		},
+		{
+			"idkota": "KAB. SUMEDANG",
+			"idkodepos": "45362",
+			"kodepos": "45362"
+		},
+		{
+			"idkota": "KOTA SUKABUMI",
+			"idkodepos": "43113",
+			"kodepos": "43113"
+		},
+		{
+			"idkota": "KOTA SUKABUMI",
+			"idkodepos": "43111",
+			"kodepos": "43111"
+		},
+		{
+			"idkota": "KAB. SUKABUMI",
+			"idkodepos": "43351",
+			"kodepos": "43351"
+		},
+		{
+			"idkota": "KAB. SUKABUMI",
+			"idkodepos": "43359",
+			"kodepos": "43359"
+		},
+		{
+			"idkota": "KAB. SUKABUMI",
+			"idkodepos": "43179",
+			"kodepos": "43179"
+		},
+		{
+			"idkota": "KAB. SUKABUMI",
+			"idkodepos": "43364",
+			"kodepos": "43364"
+		},
+		{
+			"idkota": "KAB. SUKABUMI",
+			"idkodepos": "43161",
+			"kodepos": "43161"
+		},
+		{
+			"idkota": "KAB. SUBANG",
+			"idkodepos": "41215",
+			"kodepos": "41215"
+		},
+		{
+			"idkota": "KAB. SUBANG",
+			"idkodepos": "41254",
+			"kodepos": "41254"
+		},
+		{
+			"idkota": "KAB. SUBANG",
+			"idkodepos": "41271",
+			"kodepos": "41271"
+		},
+		{
+			"idkota": "Kab. Subang",
+			"idkodepos": "41272",
+			"kodepos": "41272"
+		},
+		{
+			"idkota": "KOTA TASIKMALAYA",
+			"idkodepos": "46121",
+			"kodepos": "46121"
+		},
+		{
+			"idkota": "KAB. TASIKMALAYA",
+			"idkodepos": "46156",
+			"kodepos": "46156"
+		},
+		{
+			"idkota": "KOTA TASIKMALAYA",
+			"idkodepos": "46101",
+			"kodepos": "46101"
+		},
+		{
+			"idkota": "KAB. CIAMIS",
+			"idkodepos": "46211",
+			"kodepos": "46211"
+		},
+		{
+			"idkota": "KAB. CIAMIS",
+			"idkodepos": "46263",
+			"kodepos": "46263"
+		},
+		{
+			"idkota": "KOTA TASIKMALAYA",
+			"idkodepos": "46182",
+			"kodepos": "46182"
+		},
+		{
+			"idkota": "KAB. TASIKMALAYA",
+			"idkodepos": "46215",
+			"kodepos": "46215"
+		},
+		{
+			"idkota": "KOTA TASIKMALAYA",
+			"idkodepos": "46111",
+			"kodepos": "46111"
+		},
+		{
+			"idkota": "KAB. CIAMIS",
+			"idkodepos": "46146",
+			"kodepos": "46146"
+		},
+		{
+			"idkota": "KAB. BLORA",
+			"idkodepos": "58312",
+			"kodepos": "58312"
+		},
+		{
+			"idkota": "KAB. BLORA",
+			"idkodepos": "58213",
+			"kodepos": "58213"
+		},
+		{
+			"idkota": "KAB. BLORA",
+			"idkodepos": "58382",
+			"kodepos": "58382"
+		},
+		{
+			"idkota": "KAB. JEPARA",
+			"idkodepos": "59412",
+			"kodepos": "59412"
+		},
+		{
+			"idkota": "KAB. JEPARA",
+			"idkodepos": "59453",
+			"kodepos": "59453"
+		},
+		{
+			"idkota": "KAB. JEPARA",
+			"idkodepos": "59642",
+			"kodepos": "59642"
+		},
+		{
+			"idkota": "KAB. JEPARA",
+			"idkodepos": "59453",
+			"kodepos": "59453"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59317",
+			"kodepos": "59317"
+		},
+		{
+			"idkota": "KAB. DEMAK",
+			"idkodepos": "59511",
+			"kodepos": "59511"
+		},
+		{
+			"idkota": "KAB. GROBOGAN",
+			"idkodepos": "58171",
+			"kodepos": "58171"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59317",
+			"kodepos": "59317"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59382",
+			"kodepos": "59382"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59382",
+			"kodepos": "59382"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59311",
+			"kodepos": "59311"
+		},
+		{
+			"idkota": "KAB. KUDUS",
+			"idkodepos": "59372",
+			"kodepos": "59372"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50149",
+			"kodepos": "50149"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50244",
+			"kodepos": "50244"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50263",
+			"kodepos": "50263"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50146",
+			"kodepos": "50146"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50257",
+			"kodepos": "50257"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50145",
+			"kodepos": "50145"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50241",
+			"kodepos": "50241"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50141",
+			"kodepos": "50141"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50212",
+			"kodepos": "50212"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51313",
+			"kodepos": "51313"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51372",
+			"kodepos": "51372"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51381",
+			"kodepos": "51381"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51353",
+			"kodepos": "51353"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51363",
+			"kodepos": "51363"
+		},
+		{
+			"idkota": "KAB. KENDAL",
+			"idkodepos": "51357",
+			"kodepos": "51357"
+		},
+		{
+			"idkota": "KOTA PEKALONGAN",
+			"idkodepos": "51117",
+			"kodepos": "51117"
+		},
+		{
+			"idkota": "KAB. BATANG",
+			"idkodepos": "51214",
+			"kodepos": "51214"
+		},
+		{
+			"idkota": "KAB. PEKALONGAN",
+			"idkodepos": "51152",
+			"kodepos": "51152"
+		},
+		{
+			"idkota": "KAB. PEKALONGAN",
+			"idkodepos": "51173",
+			"kodepos": "51173"
+		},
+		{
+			"idkota": "KAB. BATANG",
+			"idkodepos": "51271",
+			"kodepos": "51271"
+		},
+		{
+			"idkota": "KAB. PEMALANG",
+			"idkodepos": "52363",
+			"kodepos": "52363"
+		},
+		{
+			"idkota": "KAB. BATANG",
+			"idkodepos": "51214",
+			"kodepos": "51214"
+		},
+		{
+			"idkota": "KOTA PEKALONGAN",
+			"idkodepos": "51117",
+			"kodepos": "51117"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59212",
+			"kodepos": "59212"
+		},
+		{
+			"idkota": "KAB. REMBANG",
+			"idkodepos": "59212",
+			"kodepos": "59212"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59185",
+			"kodepos": "59185"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59172",
+			"kodepos": "59172"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59154",
+			"kodepos": "59154"
+		},
+		{
+			"idkota": "KAB. REMBANG",
+			"idkodepos": "59271",
+			"kodepos": "59271"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59173",
+			"kodepos": "59173"
+		},
+		{
+			"idkota": "KAB. PATI",
+			"idkodepos": "59155",
+			"kodepos": "59155"
+		},
+		{
+			"idkota": "KOTA SALATIGA",
+			"idkodepos": "50711",
+			"kodepos": "50711"
+		},
+		{
+			"idkota": "KAB. SEMARANG",
+			"idkodepos": "50612",
+			"kodepos": "50612"
+		},
+		{
+			"idkota": "KOTA SALATIGA",
+			"idkodepos": "50711",
+			"kodepos": "50711"
+		},
+		{
+			"idkota": "KAB. SEMARANG",
+			"idkodepos": "50776",
+			"kodepos": "50776"
+		},
+		{
+			"idkota": "KAB. SEMARANG",
+			"idkodepos": "50614",
+			"kodepos": "50614"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50122",
+			"kodepos": "50122"
+		},
+		{
+			"idkota": "KAB. SEMARANG",
+			"idkodepos": "50511",
+			"kodepos": "50511"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50174",
+			"kodepos": "50174"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50229",
+			"kodepos": "50229"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50257",
+			"kodepos": "50257"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50124",
+			"kodepos": "50124"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50241",
+			"kodepos": "50241"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50137",
+			"kodepos": "50137"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50144",
+			"kodepos": "50144"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50134",
+			"kodepos": "50134"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50245",
+			"kodepos": "50245"
+		},
+		{
+			"idkota": "KAB. SEMARANG",
+			"idkodepos": "50552",
+			"kodepos": "50552"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50136",
+			"kodepos": "50136"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50264",
+			"kodepos": "50264"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50132",
+			"kodepos": "50132"
+		},
+		{
+			"idkota": "KOTA TEGAL",
+			"idkodepos": "52113",
+			"kodepos": "52113"
+		},
+		{
+			"idkota": "KAB. BREBES",
+			"idkodepos": "52212",
+			"kodepos": "52212"
+		},
+		{
+			"idkota": "KAB. TEGAL",
+			"idkodepos": "52415",
+			"kodepos": "52415"
+		},
+		{
+			"idkota": "KAB. PEMALANG",
+			"idkodepos": "52351",
+			"kodepos": "52351"
+		},
+		{
+			"idkota": "KAB. TEGAL",
+			"idkodepos": "52194",
+			"kodepos": "52194"
+		},
+		{
+			"idkota": "KAB. BREBES",
+			"idkodepos": "52263",
+			"kodepos": "52263"
+		},
+		{
+			"idkota": "KAB. TEGAL",
+			"idkodepos": "52415",
+			"kodepos": "52415"
+		},
+		{
+			"idkota": "KOTA TEGAL",
+			"idkodepos": "52113",
+			"kodepos": "52113"
+		},
+		{
+			"idkota": "KAB. PEMALANG",
+			"idkodepos": "52353",
+			"kodepos": "52353"
+		},
+		{
+			"idkota": "KAB. TEGAL",
+			"idkodepos": "52463",
+			"kodepos": "52463"
+		},
+		{
+			"idkota": "KAB. TEGAL",
+			"idkodepos": "52182",
+			"kodepos": "52182"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50241",
+			"kodepos": "50241"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50161",
+			"kodepos": "50161"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50275",
+			"kodepos": "50275"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50229",
+			"kodepos": "50229"
+		},
+		{
+			"idkota": "KAB. DEMAK",
+			"idkodepos": "59567",
+			"kodepos": "59567"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50276",
+			"kodepos": "50276"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50161",
+			"kodepos": "50161"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50242",
+			"kodepos": "50242"
+		},
+		{
+			"idkota": "KAB. GROBOGAN",
+			"idkodepos": "58164",
+			"kodepos": "58164"
+		},
+		{
+			"idkota": "KOTA SEMARANG",
+			"idkodepos": "50148",
+			"kodepos": "50148"
+		},
+		{
+			"idkota": "KAB. BOJONEGORO",
+			"idkodepos": "62111",
+			"kodepos": "62111"
+		},
+		{
+			"idkota": "KAB. LAMONGAN",
+			"idkodepos": "62271",
+			"kodepos": "62271"
+		},
+		{
+			"idkota": "KAB. BOJONEGORO",
+			"idkodepos": "62152",
+			"kodepos": "62152"
+		},
+		{
+			"idkota": "KAB. BOJONEGORO",
+			"idkodepos": "62191",
+			"kodepos": "62191"
+		},
+		{
+			"idkota": "KAB. BOJONEGORO",
+			"idkodepos": "62192",
+			"kodepos": "62192"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60234",
+			"kodepos": "60234"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60231",
+			"kodepos": "60231"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60241",
+			"kodepos": "60241"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60244",
+			"kodepos": "60244"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60291",
+			"kodepos": "60291"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60238",
+			"kodepos": "60238"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60288",
+			"kodepos": "60288"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60393",
+			"kodepos": "60393"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60237",
+			"kodepos": "60237"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60231",
+			"kodepos": "60231"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "55283",
+			"kodepos": "55283"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60236",
+			"kodepos": "60236"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60118",
+			"kodepos": "60118"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60221",
+			"kodepos": "60221"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60231",
+			"kodepos": "60231"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60293",
+			"kodepos": "60293"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60294",
+			"kodepos": "60294"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61122",
+			"kodepos": "61122"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61118",
+			"kodepos": "61118"
+		},
+		{
+			"idkota": "KAB. LAMONGAN",
+			"idkodepos": "62213",
+			"kodepos": "62213"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61122",
+			"kodepos": "61122"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61152",
+			"kodepos": "61152"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61177",
+			"kodepos": "61177"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61151",
+			"kodepos": "61151"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61174",
+			"kodepos": "61174"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61171",
+			"kodepos": "61171"
+		},
+		{
+			"idkota": "KAB. LAMONGAN",
+			"idkodepos": "62212",
+			"kodepos": "62212"
+		},
+		{
+			"idkota": "KAB. GRESIK",
+			"idkodepos": "61124",
+			"kodepos": "61124"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60226",
+			"kodepos": "60226"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60189",
+			"kodepos": "60189"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60185",
+			"kodepos": "60185"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60186",
+			"kodepos": "60186"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60216",
+			"kodepos": "60216"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60186",
+			"kodepos": "60186"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60123",
+			"kodepos": "60123"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60226",
+			"kodepos": "60226"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60214",
+			"kodepos": "60214"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60161",
+			"kodepos": "60161"
+		},
+		{
+			"idkota": "KAB. JOMBANG",
+			"idkodepos": "61415",
+			"kodepos": "61415"
+		},
+		{
+			"idkota": "KAB. JOMBANG",
+			"idkodepos": "61482",
+			"kodepos": "61482"
+		},
+		{
+			"idkota": "KAB. JOMBANG",
+			"idkodepos": "61473",
+			"kodepos": "61473"
+		},
+		{
+			"idkota": "KAB. JOMBANG",
+			"idkodepos": "61453",
+			"kodepos": "61453"
+		},
+		{
+			"idkota": "KAB. JOMBANG",
+			"idkodepos": "61461",
+			"kodepos": "61461"
+		},
+		{
+			"idkota": "KAB. PAMEKASAN",
+			"idkodepos": "69317",
+			"kodepos": "69317"
+		},
+		{
+			"idkota": "KAB. SAMPANG",
+			"idkodepos": "69213",
+			"kodepos": "69213"
+		},
+		{
+			"idkota": "KAB. SAMPANG",
+			"idkodepos": "69262",
+			"kodepos": "69262"
+		},
+		{
+			"idkota": "KAB. BANGKALAN",
+			"idkodepos": "69115",
+			"kodepos": "69115"
+		},
+		{
+			"idkota": "KAB. SAMPANG",
+			"idkodepos": "69216",
+			"kodepos": "69216"
+		},
+		{
+			"idkota": "KAB. BANGKALAN",
+			"idkodepos": "69174",
+			"kodepos": "69174"
+		},
+		{
+			"idkota": "KAB. BANGKALAN",
+			"idkodepos": "69112",
+			"kodepos": "69112"
+		},
+		{
+			"idkota": "KAB. BANGKALAN",
+			"idkodepos": "69156",
+			"kodepos": "69156"
+		},
+		{
+			"idkota": "KAB. PAMEKASAN",
+			"idkodepos": "61256",
+			"kodepos": "61256"
+		},
+		{
+			"idkota": "KOTA MOJOKERTO",
+			"idkodepos": "61322",
+			"kodepos": "61322"
+		},
+		{
+			"idkota": "KAB. MOJOKERTO",
+			"idkodepos": "61382",
+			"kodepos": "61382"
+		},
+		{
+			"idkota": "KAB. MOJOKERTO",
+			"idkodepos": "61371",
+			"kodepos": "61371"
+		},
+		{
+			"idkota": "KOTA MOJOKERTO",
+			"idkodepos": "61385",
+			"kodepos": "61385"
+		},
+		{
+			"idkota": "KAB. MOJOKERTO",
+			"idkodepos": "61352",
+			"kodepos": "61352"
+		},
+		{
+			"idkota": "KAB. MOJOKERTO",
+			"idkodepos": "61352",
+			"kodepos": "61352"
+		},
+		{
+			"idkota": "KOTA MOJOKERTO",
+			"idkodepos": "61322",
+			"kodepos": "61322"
+		},
+		{
+			"idkota": "Kab. MOJOKERTO",
+			"idkodepos": "61361",
+			"kodepos": "61361"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60292",
+			"kodepos": "60292"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60272",
+			"kodepos": "60272"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60131",
+			"kodepos": "60131"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60265",
+			"kodepos": "60265"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60111",
+			"kodepos": "60111"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60265",
+			"kodepos": "60265"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60134",
+			"kodepos": "60134"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60286",
+			"kodepos": "60286"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60118",
+			"kodepos": "60118"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60118",
+			"kodepos": "60118"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60282",
+			"kodepos": "60282"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60285",
+			"kodepos": "60285"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60274",
+			"kodepos": "60274"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60115",
+			"kodepos": "60115"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60284",
+			"kodepos": "60284"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "61419",
+			"kodepos": "61419"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60272",
+			"kodepos": "60272"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60112",
+			"kodepos": "60112"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60244",
+			"kodepos": "60244"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60298",
+			"kodepos": "60298"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60272",
+			"kodepos": "60272"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60116",
+			"kodepos": "60116"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60112",
+			"kodepos": "60112"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60276",
+			"kodepos": "60276"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60293",
+			"kodepos": "60293"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60272",
+			"kodepos": "60272"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60224",
+			"kodepos": "60224"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61212",
+			"kodepos": "61212"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61257",
+			"kodepos": "61257"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61274",
+			"kodepos": "61274"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61257",
+			"kodepos": "61257"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61262",
+			"kodepos": "61262"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61254",
+			"kodepos": "61254"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61221",
+			"kodepos": "61221"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61274",
+			"kodepos": "61274"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61256",
+			"kodepos": "61256"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60900",
+			"kodepos": "60900"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61218",
+			"kodepos": "61218"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "61256",
+			"kodepos": "61256"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "68146",
+			"kodepos": "68146"
+		},
+		{
+			"idkota": "KAB. SIDOARJO",
+			"idkodepos": "60236",
+			"kodepos": "60236"
+		},
+		{
+			"idkota": "KAB. SUMENEP",
+			"idkodepos": "69417",
+			"kodepos": "69417"
+		},
+		{
+			"idkota": "KAB. SUMENEP",
+			"idkodepos": "69465",
+			"kodepos": "69465"
+		},
+		{
+			"idkota": "KAB. SUMENEP",
+			"idkodepos": "69457",
+			"kodepos": "69457"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60165",
+			"kodepos": "60165"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60165",
+			"kodepos": "60165"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60165",
+			"kodepos": "60165"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60261",
+			"kodepos": "60261"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60135",
+			"kodepos": "60135"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60161",
+			"kodepos": "60161"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60175",
+			"kodepos": "60175"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60225",
+			"kodepos": "60225"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60225",
+			"kodepos": "60225"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60121",
+			"kodepos": "60121"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60151",
+			"kodepos": "60151"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60179",
+			"kodepos": "60179"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60171",
+			"kodepos": "60171"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60143",
+			"kodepos": "60143"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60179",
+			"kodepos": "60179"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60175",
+			"kodepos": "60175"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60281",
+			"kodepos": "60281"
+		},
+		{
+			"idkota": "KOTA SURABAYA",
+			"idkodepos": "60173",
+			"kodepos": "60173"
+		},
+		{
+			"idkota": "KAB. TUBAN",
+			"idkodepos": "62316",
+			"kodepos": "62316"
+		},
+		{
+			"idkota": "KAB. TUBAN",
+			"idkodepos": "62356",
+			"kodepos": "62356"
+		},
+		{
+			"idkota": "KAB. LAMONGAN",
+			"idkodepos": "62263",
+			"kodepos": "62263"
+		},
+		{
+			"idkota": "KAB. TUBAN",
+			"idkodepos": "62354",
+			"kodepos": "62354"
+		},
+		{
+			"idkota": "KAB. LAMONGAN",
+			"idkodepos": "62264",
+			"kodepos": "62264"
+		},
+		{
+			"idkota": "KAB. TUBAN",
+			"idkodepos": "62352",
+			"kodepos": "62352"
+		},
+		{
+			"idkota": "KOTA AMBON",
+			"idkodepos": "97126",
+			"kodepos": "97126"
+		},
+		{
+			"idkota": "KOTA AMBON",
+			"idkodepos": "97112",
+			"kodepos": "97112"
+		},
+		{
+			"idkota": "KOTA TUAL",
+			"idkodepos": "97612",
+			"kodepos": "97612"
+		},
+		{
+			"idkota": "KAB. BURU",
+			"idkodepos": "97372",
+			"kodepos": "97372"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN ARU",
+			"idkodepos": "97662",
+			"kodepos": "97662"
+		},
+		{
+			"idkota": "KAB. SERAM BAGIAN TIMUR",
+			"idkodepos": "97566",
+			"kodepos": "97566"
+		},
+		{
+			"idkota": "KAB. SERAM BAGIAN BARAT",
+			"idkodepos": "97554",
+			"kodepos": "97554"
+		},
+		{
+			"idkota": "KAB. MALUKU TENGGARA",
+			"idkodepos": "97611",
+			"kodepos": "97611"
+		},
+		{
+			"idkota": "KAB. MALUKU TENGAH",
+			"idkodepos": "97512",
+			"kodepos": "97512"
+		},
+		{
+			"idkota": "KAB. MALUKU TENGGARA BARAT",
+			"idkodepos": "97464",
+			"kodepos": "97464"
+		},
+		{
+			"idkota": "KAB. BURU SELATAN",
+			"idkodepos": "97544",
+			"kodepos": "97544"
+		},
+		{
+			"idkota": "KOTA AMBON",
+			"idkodepos": "97232",
+			"kodepos": "97232"
+		},
+		{
+			"idkota": "KOTA AMBON",
+			"idkodepos": "97123",
+			"kodepos": "97123"
+		},
+		{
+			"idkota": "KOTA AMBON",
+			"idkodepos": "97233",
+			"kodepos": "97233"
+		},
+		{
+			"idkota": "KOTA BAU-BAU",
+			"idkodepos": "93711",
+			"kodepos": "93711"
+		},
+		{
+			"idkota": "KAB. MUNA",
+			"idkodepos": "93711",
+			"kodepos": "93711"
+		},
+		{
+			"idkota": "KAB. WAKATOBI",
+			"idkodepos": "93791",
+			"kodepos": "93791"
+		},
+		{
+			"idkota": "KAB. BUTON UTARA",
+			"idkodepos": "93672",
+			"kodepos": "93672"
+		},
+		{
+			"idkota": "KAB BUTON SELATAN",
+			"idkodepos": "93672",
+			"kodepos": "93672"
+		},
+		{
+			"idkota": "KAB. BUTON TENGAH",
+			"idkodepos": "93672",
+			"kodepos": "93672"
+		},
+		{
+			"idkota": "KOTA BAU BAU",
+			"idkodepos": "93722",
+			"kodepos": "93722"
+		},
+		{
+			"idkota": "KAB. BUTON",
+			"idkodepos": "93754",
+			"kodepos": "93754"
+		},
+		{
+			"idkota": "KAB. BULUKUMBA",
+			"idkodepos": "92511",
+			"kodepos": "92511"
+		},
+		{
+			"idkota": "KAB. SINJAI",
+			"idkodepos": "92612",
+			"kodepos": "92612"
+		},
+		{
+			"idkota": "KAB. BANTAENG",
+			"idkodepos": "92411",
+			"kodepos": "92411"
+		},
+		{
+			"idkota": "KAB. JENEPONTO",
+			"idkodepos": "92311",
+			"kodepos": "92311"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN SELAYAR",
+			"idkodepos": "92812",
+			"kodepos": "92812"
+		},
+		{
+			"idkota": "KOTA KENDARI",
+			"idkodepos": "93124",
+			"kodepos": "93124"
+		},
+		{
+			"idkota": "KAB. KOLAKA",
+			"idkodepos": "93513",
+			"kodepos": "93513"
+		},
+		{
+			"idkota": "KOTA KENDARI",
+			"idkodepos": "93111",
+			"kodepos": "93111"
+		},
+		{
+			"idkota": "KAB. KONAWE",
+			"idkodepos": "93411",
+			"kodepos": "93411"
+		},
+		{
+			"idkota": "KAB. KONAWE SELATAN",
+			"idkodepos": "93885",
+			"kodepos": "93885"
+		},
+		{
+			"idkota": "KAB. KOLAKA UTARA",
+			"idkodepos": "93911",
+			"kodepos": "93911"
+		},
+		{
+			"idkota": "KAB. KONAWE UTARA",
+			"idkodepos": "93353",
+			"kodepos": "93353"
+		},
+		{
+			"idkota": "KAB. BOMBANA",
+			"idkodepos": "93771",
+			"kodepos": "93771"
+		},
+		{
+			"idkota": "KAB. KOLAKA TIMUR",
+			"idkodepos": "93573",
+			"kodepos": "93573"
+		},
+		{
+			"idkota": "KOTA KENDARI",
+			"idkodepos": "93231",
+			"kodepos": "93231"
+		},
+		{
+			"idkota": "KAB. KOLAKA",
+			"idkodepos": "93562",
+			"kodepos": "93562"
+		},
+		{
+			"idkota": "KOTA KENDARI",
+			"idkodepos": "93116",
+			"kodepos": "93116"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90125",
+			"kodepos": "90125"
+		},
+		{
+			"idkota": "KAB. PANGKAJENE KEPULAUAN",
+			"idkodepos": "90611",
+			"kodepos": "90611"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90231",
+			"kodepos": "90231"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90241",
+			"kodepos": "90241"
+		},
+		{
+			"idkota": "KAB. GOWA",
+			"idkodepos": "92111",
+			"kodepos": "92111"
+		},
+		{
+			"idkota": "KAB. MAROS",
+			"idkodepos": "90511",
+			"kodepos": "90511"
+		},
+		{
+			"idkota": "KAB. TAKALAR",
+			"idkodepos": "92211",
+			"kodepos": "92211"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90233",
+			"kodepos": "90233"
+		},
+		{
+			"idkota": "KAB. PANGKAJENE KEPULAUAN",
+			"idkodepos": "90655",
+			"kodepos": "90655"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90141",
+			"kodepos": "90141"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90241",
+			"kodepos": "90241"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90242",
+			"kodepos": "90242"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90131",
+			"kodepos": "90131"
+		},
+		{
+			"idkota": "KAB. GOWA",
+			"idkodepos": "92113",
+			"kodepos": "92113"
+		},
+		{
+			"idkota": "KAB. GOWA",
+			"idkodepos": "92114",
+			"kodepos": "92114"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90231",
+			"kodepos": "90231"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90115",
+			"kodepos": "90115"
+		},
+		{
+			"idkota": "KAB. MAROS",
+			"idkodepos": "90552",
+			"kodepos": "90552"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90173",
+			"kodepos": "90173"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90115",
+			"kodepos": "90115"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90245",
+			"kodepos": "90245"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90231",
+			"kodepos": "90231"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90112",
+			"kodepos": "90112"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90214",
+			"kodepos": "90214"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90125",
+			"kodepos": "90125"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90222",
+			"kodepos": "90222"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90231",
+			"kodepos": "90231"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90224",
+			"kodepos": "90224"
+		},
+		{
+			"idkota": "KAB. GOWA",
+			"idkodepos": "92111",
+			"kodepos": "92111"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90245",
+			"kodepos": "90245"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90234",
+			"kodepos": "90234"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90165",
+			"kodepos": "90165"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90115",
+			"kodepos": "90115"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90112",
+			"kodepos": "90112"
+		},
+		{
+			"idkota": "KOTA MAKASSAR",
+			"idkodepos": "90121",
+			"kodepos": "90121"
+		},
+		{
+			"idkota": "KAB. MAMUJU",
+			"idkodepos": "91511",
+			"kodepos": "91511"
+		},
+		{
+			"idkota": "KAB. MAMUJU UTARA",
+			"idkodepos": "91571",
+			"kodepos": "91571"
+		},
+		{
+			"idkota": "KAB. MAMUJU TENGAH",
+			"idkodepos": "91563",
+			"kodepos": "91563"
+		},
+		{
+			"idkota": "KOTA PALOPO",
+			"idkodepos": "91911",
+			"kodepos": "91911"
+		},
+		{
+			"idkota": "KAB. TORAJA UTARA",
+			"idkodepos": "91831",
+			"kodepos": "91831"
+		},
+		{
+			"idkota": "KAB. LUWU UTARA",
+			"idkodepos": "91961",
+			"kodepos": "91961"
+		},
+		{
+			"idkota": "KAB. LUWU TIMUR",
+			"idkodepos": "92981",
+			"kodepos": "92981"
+		},
+		{
+			"idkota": "KAB. LUWU",
+			"idkodepos": "91994",
+			"kodepos": "91994"
+		},
+		{
+			"idkota": "KAB. LUWU TIMUR",
+			"idkodepos": "92985",
+			"kodepos": "92985"
+		},
+		{
+			"idkota": "KAB. LUWU TIMUR",
+			"idkodepos": "92972",
+			"kodepos": "92972"
+		},
+		{
+			"idkota": "KAB. TANA TORAJA",
+			"idkodepos": "91814",
+			"kodepos": "91814"
+		},
+		{
+			"idkota": "KOTA PALOPO",
+			"idkodepos": "91914",
+			"kodepos": "91914"
+		},
+		{
+			"idkota": "KAB. LUWU UTARA",
+			"idkodepos": "91966",
+			"kodepos": "91966"
+		},
+		{
+			"idkota": "KOTA PAREPARE",
+			"idkodepos": "91114",
+			"kodepos": "91114"
+		},
+		{
+			"idkota": "KAB. SIDENRENG RAPPANG",
+			"idkodepos": "91681",
+			"kodepos": "91681"
+		},
+		{
+			"idkota": "KAB. PINRANG",
+			"idkodepos": "91211",
+			"kodepos": "91211"
+		},
+		{
+			"idkota": "KAB. BARRU",
+			"idkodepos": "90711",
+			"kodepos": "90711"
+		},
+		{
+			"idkota": "KAB. ENREKANG",
+			"idkodepos": "91711",
+			"kodepos": "91711"
+		},
+		{
+			"idkota": "KAB. SIDENRENG RAPPANG",
+			"idkodepos": "91212",
+			"kodepos": "91212"
+		},
+		{
+			"idkota": "KAB. SIDENRENG RAPPANG",
+			"idkodepos": "91651",
+			"kodepos": "91651"
+		},
+		{
+			"idkota": "KAB. PINRANG",
+			"idkodepos": "91211",
+			"kodepos": "91211"
+		},
+		{
+			"idkota": "KOTA PAREPARE",
+			"idkodepos": "91111",
+			"kodepos": "91111"
+		},
+		{
+			"idkota": "KAB. ENREKANG",
+			"idkodepos": "91754",
+			"kodepos": "91754"
+		},
+		{
+			"idkota": "KAB. POLEWALI MANDAR",
+			"idkodepos": "91311",
+			"kodepos": "91311"
+		},
+		{
+			"idkota": "KAB. POLEWALI MANDAR",
+			"idkodepos": "91352",
+			"kodepos": "91352"
+		},
+		{
+			"idkota": "KAB. MAJENE",
+			"idkodepos": "91411",
+			"kodepos": "91411"
+		},
+		{
+			"idkota": "KAB. MAMASA",
+			"idkodepos": "91362",
+			"kodepos": "91362"
+		},
+		{
+			"idkota": "KAB. WAJO",
+			"idkodepos": "90901",
+			"kodepos": "90901"
+		},
+		{
+			"idkota": "KAB. BONE",
+			"idkodepos": "92732",
+			"kodepos": "92732"
+		},
+		{
+			"idkota": "KAB. WAJO",
+			"idkodepos": "90992",
+			"kodepos": "90992"
+		},
+		{
+			"idkota": "KAB. SOPPENG",
+			"idkodepos": "90811",
+			"kodepos": "90811"
+		},
+		{
+			"idkota": "KAB. SOPPENG",
+			"idkodepos": "90871",
+			"kodepos": "90871"
+		},
+		{
+			"idkota": "KAB. WAJO",
+			"idkodepos": "90193",
+			"kodepos": "90193"
+		},
+		{
+			"idkota": "KAB. BONE",
+			"idkodepos": "92767",
+			"kodepos": "92767"
+		},
+		{
+			"idkota": "KAB. BONE",
+			"idkodepos": "92773",
+			"kodepos": "92773"
+		},
+		{
+			"idkota": "KAB. WAJO",
+			"idkodepos": "90914",
+			"kodepos": "90914"
+		},
+		{
+			"idkota": "KAB. BONE",
+			"idkodepos": "92732",
+			"kodepos": "92732"
+		},
+		{
+			"idkota": "KOTA BIMA",
+			"idkodepos": "84100",
+			"kodepos": "84100"
+		},
+		{
+			"idkota": "KAB. DOMPU",
+			"idkodepos": "84214",
+			"kodepos": "84214"
+		},
+		{
+			"idkota": "KAB. BIMA",
+			"idkodepos": "84182",
+			"kodepos": "84182"
+		},
+		{
+			"idkota": "KAB. BIMA",
+			"idkodepos": "84100",
+			"kodepos": "84100"
+		},
+		{
+			"idkota": "KAB. BIMA",
+			"idkodepos": "84171",
+			"kodepos": "84171"
+		},
+		{
+			"idkota": "KAB. BIMA",
+			"idkodepos": "84171",
+			"kodepos": "84171"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80118",
+			"kodepos": "80118"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80363",
+			"kodepos": "80363"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80363",
+			"kodepos": "80363"
+		},
+		{
+			"idkota": "KAB. TABANAN",
+			"idkodepos": "82171",
+			"kodepos": "82171"
+		},
+		{
+			"idkota": "KAB. GIANYAR",
+			"idkodepos": "80571",
+			"kodepos": "80571"
+		},
+		{
+			"idkota": "KAB. GIANYAR",
+			"idkodepos": "50581",
+			"kodepos": "50581"
+		},
+		{
+			"idkota": "KAB. KLUNGKUNG",
+			"idkodepos": "80715",
+			"kodepos": "80715"
+		},
+		{
+			"idkota": "KAB. BANGLI",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80233",
+			"kodepos": "80233"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80111",
+			"kodepos": "80111"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80351",
+			"kodepos": "80351"
+		},
+		{
+			"idkota": "KAB. TABANAN",
+			"idkodepos": "82162",
+			"kodepos": "82162"
+		},
+		{
+			"idkota": "KAB. TABANAN",
+			"idkodepos": "82191",
+			"kodepos": "82191"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. GIANYAR",
+			"idkodepos": "80515",
+			"kodepos": "80515"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80117",
+			"kodepos": "80117"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. TABANAN",
+			"idkodepos": "82113",
+			"kodepos": "82113"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80222",
+			"kodepos": "80222"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. ENDE",
+			"idkodepos": "86317",
+			"kodepos": "86317"
+		},
+		{
+			"idkota": "KAB. NGADA",
+			"idkodepos": "86412",
+			"kodepos": "86412"
+		},
+		{
+			"idkota": "KAB. MANGGARAI",
+			"idkodepos": "86511",
+			"kodepos": "86511"
+		},
+		{
+			"idkota": "KAB. MANGGARAI BARAT",
+			"idkodepos": "86554",
+			"kodepos": "86554"
+		},
+		{
+			"idkota": "KAB. NAGEKEO",
+			"idkodepos": "86472",
+			"kodepos": "86472"
+		},
+		{
+			"idkota": "KAB. MANGGARAI TIMUR",
+			"idkodepos": "86511",
+			"kodepos": "86511"
+		},
+		{
+			"idkota": "KOTA KUPANG",
+			"idkodepos": "85229",
+			"kodepos": "85229"
+		},
+		{
+			"idkota": "KOTA KUPANG",
+			"idkodepos": "85361",
+			"kodepos": "85361"
+		},
+		{
+			"idkota": "KAB. TIMOR TENGAH SELATAN",
+			"idkodepos": "85511",
+			"kodepos": "85511"
+		},
+		{
+			"idkota": "KAB. BELU",
+			"idkodepos": "85711",
+			"kodepos": "85711"
+		},
+		{
+			"idkota": "KAB. ALOR",
+			"idkodepos": "85813",
+			"kodepos": "85813"
+		},
+		{
+			"idkota": "KAB. SUMBA TIMUR",
+			"idkodepos": "87116",
+			"kodepos": "87116"
+		},
+		{
+			"idkota": "KAB. SUMBA BARAT",
+			"idkodepos": "87211",
+			"kodepos": "87211"
+		},
+		{
+			"idkota": "KAB. TIMOR TENGAH UTARA",
+			"idkodepos": "85613",
+			"kodepos": "85613"
+		},
+		{
+			"idkota": "KOTA KUPANG",
+			"idkodepos": "85119",
+			"kodepos": "85119"
+		},
+		{
+			"idkota": "KAB. KUPANG",
+			"idkodepos": "85362",
+			"kodepos": "85362"
+		},
+		{
+			"idkota": "KAB. ROTE NDAO",
+			"idkodepos": "85914",
+			"kodepos": "85914"
+		},
+		{
+			"idkota": "KAB. MALAKA",
+			"idkodepos": "85762",
+			"kodepos": "85762"
+		},
+		{
+			"idkota": "KAB. SUMBA BARAT DAYA",
+			"idkodepos": "87254",
+			"kodepos": "87254"
+		},
+		{
+			"idkota": "KOTA KUPANG",
+			"idkodepos": "85361",
+			"kodepos": "85361"
+		},
+		{
+			"idkota": "KOTA KUPANG",
+			"idkodepos": "85231",
+			"kodepos": "85231"
+		},
+		{
+			"idkota": "KAB. SIKKA",
+			"idkodepos": "86111",
+			"kodepos": "86111"
+		},
+		{
+			"idkota": "KAB. FLORES TIMUR",
+			"idkodepos": "86216",
+			"kodepos": "86216"
+		},
+		{
+			"idkota": "KAB. FLORES TIMUR",
+			"idkodepos": "86261",
+			"kodepos": "86261"
+		},
+		{
+			"idkota": "KAB. LEMBATA",
+			"idkodepos": "86232",
+			"kodepos": "86232"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83125",
+			"kodepos": "83125"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83239",
+			"kodepos": "83239"
+		},
+		{
+			"idkota": "KAB. LOMBOK TIMUR",
+			"idkodepos": "83355",
+			"kodepos": "83355"
+		},
+		{
+			"idkota": "KAB. LOMBOK TENGAH",
+			"idkodepos": "83511",
+			"kodepos": "83511"
+		},
+		{
+			"idkota": "KAB. LOMBOK TIMUR",
+			"idkodepos": "83611",
+			"kodepos": "83611"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83125",
+			"kodepos": "83125"
+		},
+		{
+			"idkota": "KAB. LOMBOK TIMUR",
+			"idkodepos": "83661",
+			"kodepos": "83661"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83654",
+			"kodepos": "83654"
+		},
+		{
+			"idkota": "KAB. LOMBOK UTARA",
+			"idkodepos": "83352",
+			"kodepos": "83352"
+		},
+		{
+			"idkota": "KAB. LOMBOK BARAT",
+			"idkodepos": "83363",
+			"kodepos": "83363"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83236",
+			"kodepos": "83236"
+		},
+		{
+			"idkota": "KOTA MATARAM",
+			"idkodepos": "83113",
+			"kodepos": "83113"
+		},
+		{
+			"idkota": "KAB. LOMBOK TIMUR",
+			"idkodepos": "83656",
+			"kodepos": "83656"
+		},
+		{
+			"idkota": "KAB. LOMBOK BARAT",
+			"idkodepos": "83371",
+			"kodepos": "83371"
+		},
+		{
+			"idkota": "KAB. LOMBOK TENGAH",
+			"idkodepos": "83573",
+			"kodepos": "83573"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "82265",
+			"kodepos": "82265"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80228",
+			"kodepos": "80228"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80032",
+			"kodepos": "80032"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80228",
+			"kodepos": "80228"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80114",
+			"kodepos": "80114"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80236",
+			"kodepos": "80236"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80113",
+			"kodepos": "80113"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80237",
+			"kodepos": "80237"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80114",
+			"kodepos": "80114"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "7204",
+			"kodepos": "7204"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80111",
+			"kodepos": "80111"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80228",
+			"kodepos": "80228"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80227",
+			"kodepos": "80227"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80228",
+			"kodepos": "80228"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80113",
+			"kodepos": "80113"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80235",
+			"kodepos": "80235"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80261",
+			"kodepos": "80261"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80117",
+			"kodepos": "80117"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. BADUNG",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KOTA DENPASAR",
+			"idkodepos": "80361",
+			"kodepos": "80361"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84314",
+			"kodepos": "84314"
+		},
+		{
+			"idkota": "KAB. SUMBAWA BARAT",
+			"idkodepos": "84355",
+			"kodepos": "84355"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84356",
+			"kodepos": "84356"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84355",
+			"kodepos": "84355"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84353",
+			"kodepos": "84353"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84353",
+			"kodepos": "84353"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84373",
+			"kodepos": "84373"
+		},
+		{
+			"idkota": "KAB. SUMBAWA",
+			"idkodepos": "84312",
+			"kodepos": "84312"
+		},
+		{
+			"idkota": "KAB. BULELENG",
+			"idkodepos": "81114",
+			"kodepos": "81114"
+		},
+		{
+			"idkota": "KAB. BULELENG",
+			"idkodepos": "81153",
+			"kodepos": "81153"
+		},
+		{
+			"idkota": "KAB. JEMBRANA",
+			"idkodepos": "82217",
+			"kodepos": "82217"
+		},
+		{
+			"idkota": "KAB. KARANGASEM",
+			"idkodepos": "80811",
+			"kodepos": "80811"
+		},
+		{
+			"idkota": "KAB. BULELENG",
+			"idkodepos": "81114",
+			"kodepos": "81114"
+		},
+		{
+			"idkota": "KAB. HULU SUNGAI TENGAH",
+			"idkodepos": "71311",
+			"kodepos": "71311"
+		},
+		{
+			"idkota": "KAB. HULU SUNGAI UTARA",
+			"idkodepos": "71411",
+			"kodepos": "71411"
+		},
+		{
+			"idkota": "KAB. HULU SUNGAI SELATAN",
+			"idkodepos": "71211",
+			"kodepos": "71211"
+		},
+		{
+			"idkota": "KAB. TABALONG",
+			"idkodepos": "71571",
+			"kodepos": "71571"
+		},
+		{
+			"idkota": "KAB. TAPIN",
+			"idkodepos": "71114",
+			"kodepos": "71114"
+		},
+		{
+			"idkota": "KAB. BALANGAN",
+			"idkodepos": "71662",
+			"kodepos": "71662"
+		},
+		{
+			"idkota": "KAB. TAPIN",
+			"idkodepos": "71183",
+			"kodepos": "71183"
+		},
+		{
+			"idkota": "KAB. TABALONG",
+			"idkodepos": "71552",
+			"kodepos": "71552"
+		},
+		{
+			"idkota": "KOTA BANJARBARU",
+			"idkodepos": "70713",
+			"kodepos": "70713"
+		},
+		{
+			"idkota": "KAB. BANJAR",
+			"idkodepos": "70614",
+			"kodepos": "70614"
+		},
+		{
+			"idkota": "KAB. TANAH LAUT",
+			"idkodepos": "70814",
+			"kodepos": "70814"
+		},
+		{
+			"idkota": "KOTA BANJARBARU",
+			"idkodepos": "70724",
+			"kodepos": "70724"
+		},
+		{
+			"idkota": "KAB. BANJAR",
+			"idkodepos": "70619",
+			"kodepos": "70619"
+		},
+		{
+			"idkota": "KOTA BANJARBARU",
+			"idkodepos": "70714",
+			"kodepos": "70714"
+		},
+		{
+			"idkota": "KAB. TANAH LAUT",
+			"idkodepos": "70881",
+			"kodepos": "70881"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70111",
+			"kodepos": "70111"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70124",
+			"kodepos": "70124"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70236",
+			"kodepos": "70236"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70235",
+			"kodepos": "70235"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70111",
+			"kodepos": "70111"
+		},
+		{
+			"idkota": "KAB. BARITO KUALA",
+			"idkodepos": "70511",
+			"kodepos": "70511"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70111",
+			"kodepos": "70111"
+		},
+		{
+			"idkota": "KAB. BANJAR",
+			"idkodepos": "70511",
+			"kodepos": "70511"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70234",
+			"kodepos": "70234"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70117",
+			"kodepos": "70117"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70111",
+			"kodepos": "70111"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70234",
+			"kodepos": "70234"
+		},
+		{
+			"idkota": "KOTA BANJARMASIN",
+			"idkodepos": "70122",
+			"kodepos": "70122"
+		},
+		{
+			"idkota": "KOTA BONTANG",
+			"idkodepos": "75311",
+			"kodepos": "75311"
+		},
+		{
+			"idkota": "KAB. KUTAI TIMUR",
+			"idkodepos": "75681",
+			"kodepos": "75681"
+		},
+		{
+			"idkota": "KOTA BONTANG",
+			"idkodepos": "75314",
+			"kodepos": "75314"
+		},
+		{
+			"idkota": "KAB. KUTAI TIMUR",
+			"idkodepos": "75618",
+			"kodepos": "75618"
+		},
+		{
+			"idkota": "KOTA BONTANG",
+			"idkodepos": "75311",
+			"kodepos": "75311"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76115",
+			"kodepos": "76115"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76125",
+			"kodepos": "76125"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76125",
+			"kodepos": "76125"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76115",
+			"kodepos": "76115"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76131",
+			"kodepos": "76131"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76114",
+			"kodepos": "76114"
+		},
+		{
+			"idkota": "KAB. PASIR",
+			"idkodepos": "76211",
+			"kodepos": "76211"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76114",
+			"kodepos": "76114"
+		},
+		{
+			"idkota": "KAB. PENAJAM PASER UTARA",
+			"idkodepos": "76126",
+			"kodepos": "76126"
+		},
+		{
+			"idkota": "KAB. PASER",
+			"idkodepos": "76252",
+			"kodepos": "76252"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76115",
+			"kodepos": "76115"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76113",
+			"kodepos": "76113"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76101",
+			"kodepos": "76101"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76116",
+			"kodepos": "76116"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76121",
+			"kodepos": "76121"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76152",
+			"kodepos": "76152"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76126",
+			"kodepos": "76126"
+		},
+		{
+			"idkota": "KAB. KUTAI KARTANEGARA",
+			"idkodepos": "75261",
+			"kodepos": "75261"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76134",
+			"kodepos": "76134"
+		},
+		{
+			"idkota": "KOTA BALIKPAPAN",
+			"idkodepos": "76114",
+			"kodepos": "76114"
+		},
+		{
+			"idkota": "KAB. KETAPANG",
+			"idkodepos": "78812",
+			"kodepos": "78812"
+		},
+		{
+			"idkota": "KAB. KAYONG UTARA",
+			"idkodepos": "78852",
+			"kodepos": "78852"
+		},
+		{
+			"idkota": "KAB. KETAPANG",
+			"idkodepos": "78811",
+			"kodepos": "78811"
+		},
+		{
+			"idkota": "KAB. KETAPANG",
+			"idkodepos": "78862",
+			"kodepos": "78862"
+		},
+		{
+			"idkota": "KAB. SANGGAU",
+			"idkodepos": "78564",
+			"kodepos": "78564"
+		},
+		{
+			"idkota": "KAB. KETAPANG",
+			"idkodepos": "78812",
+			"kodepos": "78812"
+		},
+		{
+			"idkota": "KAB. KOTABARU",
+			"idkodepos": "72113",
+			"kodepos": "72113"
+		},
+		{
+			"idkota": "KAB. TANAH BUMBU",
+			"idkodepos": "72200",
+			"kodepos": "72200"
+		},
+		{
+			"idkota": "KAB. TANAH BUMBU",
+			"idkodepos": "72175",
+			"kodepos": "72175"
+		},
+		{
+			"idkota": "KAB. TANAH BUMBU",
+			"idkodepos": "72173",
+			"kodepos": "72173"
+		},
+		{
+			"idkota": "KAB. KOTABARU",
+			"idkodepos": "72161",
+			"kodepos": "72161"
+		},
+		{
+			"idkota": "KAB. BARITO UTARA",
+			"idkodepos": "73811",
+			"kodepos": "73811"
+		},
+		{
+			"idkota": "KAB. BARITO SELATAN",
+			"idkodepos": "73711",
+			"kodepos": "73711"
+		},
+		{
+			"idkota": "KAB. MURUNG RAYA",
+			"idkodepos": "73911",
+			"kodepos": "73911"
+		},
+		{
+			"idkota": "KAB. BARITO TIMUR",
+			"idkodepos": "73652",
+			"kodepos": "73652"
+		},
+		{
+			"idkota": "KAB. NUNUKAN",
+			"idkodepos": "77482",
+			"kodepos": "77482"
+		},
+		{
+			"idkota": "KAB. NUNUKAN",
+			"idkodepos": "77483",
+			"kodepos": "77483"
+		},
+		{
+			"idkota": "KAB. NUNUKAN",
+			"idkodepos": "77457",
+			"kodepos": "77457"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN BARAT",
+			"idkodepos": "74114",
+			"kodepos": "74114"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN BARAT",
+			"idkodepos": "74181",
+			"kodepos": "74181"
+		},
+		{
+			"idkota": "KAB. SUKAMARA",
+			"idkodepos": "74172",
+			"kodepos": "74172"
+		},
+		{
+			"idkota": "KAB. LAMANDAU",
+			"idkodepos": "74162",
+			"kodepos": "74162"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN BARAT",
+			"idkodepos": "74116",
+			"kodepos": "74116"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN BARAT",
+			"idkodepos": "74116",
+			"kodepos": "74116"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "79117",
+			"kodepos": "79117"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78121",
+			"kodepos": "78121"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78242",
+			"kodepos": "78242"
+		},
+		{
+			"idkota": "KAB. PONTIANAK",
+			"idkodepos": "75353",
+			"kodepos": "75353"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78122",
+			"kodepos": "78122"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78113",
+			"kodepos": "78113"
+		},
+		{
+			"idkota": "KAB. LANDAK",
+			"idkodepos": "79357",
+			"kodepos": "79357"
+		},
+		{
+			"idkota": "KAB. KUBU RAYA",
+			"idkodepos": "78391",
+			"kodepos": "78391"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78115",
+			"kodepos": "78115"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "79117",
+			"kodepos": "79117"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78117",
+			"kodepos": "78117"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78235",
+			"kodepos": "78235"
+		},
+		{
+			"idkota": "KOTA PONTIANAK",
+			"idkodepos": "78113",
+			"kodepos": "78113"
+		},
+		{
+			"idkota": "KAB. PONTIANAK",
+			"idkodepos": "78912",
+			"kodepos": "78912"
+		},
+		{
+			"idkota": "Kota Pontianak",
+			"idkodepos": "78116",
+			"kodepos": "78116"
+		},
+		{
+			"idkota": "KAB. KUBU RAYA",
+			"idkodepos": "78391",
+			"kodepos": "78391"
+		},
+		{
+			"idkota": "KOTA PALANGKA RAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KOTA PALANGKA RAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KAB. KATINGAN",
+			"idkodepos": "74451",
+			"kodepos": "74451"
+		},
+		{
+			"idkota": "KAB. GUNUNG MAS",
+			"idkodepos": "74552",
+			"kodepos": "74552"
+		},
+		{
+			"idkota": "KOTA PALANGKARAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KOTA PALANGKA RAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KOTA PALANGKA RAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KOTA PALANGKA RAYA",
+			"idkodepos": "73112",
+			"kodepos": "73112"
+		},
+		{
+			"idkota": "KOTA SINGKAWANG",
+			"idkodepos": "79123",
+			"kodepos": "79123"
+		},
+		{
+			"idkota": "KAB. BENGKAYANG",
+			"idkodepos": "79282",
+			"kodepos": "79282"
+		},
+		{
+			"idkota": "KOTA SINGKAWANG",
+			"idkodepos": "79124",
+			"kodepos": "79124"
+		},
+		{
+			"idkota": "KOTA SINGKAWANG",
+			"idkodepos": "79112",
+			"kodepos": "79112"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75112",
+			"kodepos": "75112"
+		},
+		{
+			"idkota": "KAB. KUTAI KARTANEGARA",
+			"idkodepos": "75512",
+			"kodepos": "75512"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75119",
+			"kodepos": "75119"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75124",
+			"kodepos": "75124"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75117",
+			"kodepos": "75117"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75131",
+			"kodepos": "75131"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75391",
+			"kodepos": "75391"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75121",
+			"kodepos": "75121"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75117",
+			"kodepos": "75117"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75117",
+			"kodepos": "75117"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75126",
+			"kodepos": "75126"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75234",
+			"kodepos": "75234"
+		},
+		{
+			"idkota": "KOTA SAMARINDA",
+			"idkodepos": "75124",
+			"kodepos": "75124"
+		},
+		{
+			"idkota": "KAB. KUTAI BARAT",
+			"idkodepos": "75124",
+			"kodepos": "75124"
+		},
+		{
+			"idkota": "KAB. SINTANG",
+			"idkodepos": "78614",
+			"kodepos": "78614"
+		},
+		{
+			"idkota": "KAB. SANGGAU",
+			"idkodepos": "78513",
+			"kodepos": "78513"
+		},
+		{
+			"idkota": "KAB. KAPUAS HULU",
+			"idkodepos": "78711",
+			"kodepos": "78711"
+		},
+		{
+			"idkota": "KAB. MELAWI",
+			"idkodepos": "79672",
+			"kodepos": "79672"
+		},
+		{
+			"idkota": "KAB. SEKADAU",
+			"idkodepos": "79511",
+			"kodepos": "79511"
+		},
+		{
+			"idkota": "KAB. SANGGAU",
+			"idkodepos": "78554",
+			"kodepos": "78554"
+		},
+		{
+			"idkota": "KAB. SANGGAU",
+			"idkodepos": "78554",
+			"kodepos": "78554"
+		},
+		{
+			"idkota": "KAB. SINTANG",
+			"idkodepos": "78611",
+			"kodepos": "78611"
+		},
+		{
+			"idkota": "KAB. SANGGAU",
+			"idkodepos": "78562",
+			"kodepos": "78562"
+		},
+		{
+			"idkota": "KAB. SINTANG",
+			"idkodepos": "78655",
+			"kodepos": "78655"
+		},
+		{
+			"idkota": "KAB. SEKADAU",
+			"idkodepos": "79586",
+			"kodepos": "79586"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN TIMUR",
+			"idkodepos": "74323",
+			"kodepos": "74323"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN TIMUR",
+			"idkodepos": "74363",
+			"kodepos": "74363"
+		},
+		{
+			"idkota": "KAB. SERUYAN",
+			"idkodepos": "74215",
+			"kodepos": "74215"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN TIMUR",
+			"idkodepos": "74355",
+			"kodepos": "74355"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN TIMUR",
+			"idkodepos": "74322",
+			"kodepos": "74322"
+		},
+		{
+			"idkota": "KAB. KOTAWARINGIN TIMUR",
+			"idkodepos": "74321",
+			"kodepos": "74321"
+		},
+		{
+			"idkota": "KAB. SAMBAS",
+			"idkodepos": "79462",
+			"kodepos": "79462"
+		},
+		{
+			"idkota": "KAB. SAMBAS",
+			"idkodepos": "79153",
+			"kodepos": "79153"
+		},
+		{
+			"idkota": "KAB. SAMBAS",
+			"idkodepos": "79461",
+			"kodepos": "79461"
+		},
+		{
+			"idkota": "KAB. BERAU",
+			"idkodepos": "77311",
+			"kodepos": "77311"
+		},
+		{
+			"idkota": "KAB. BERAU",
+			"idkodepos": "77315",
+			"kodepos": "77315"
+		},
+		{
+			"idkota": "KOTA TARAKAN",
+			"idkodepos": "77112",
+			"kodepos": "77112"
+		},
+		{
+			"idkota": "KOTA TARAKAN",
+			"idkodepos": "77112",
+			"kodepos": "77112"
+		},
+		{
+			"idkota": "KOTA TARAKAN",
+			"idkodepos": "77116",
+			"kodepos": "77116"
+		},
+		{
+			"idkota": "KOTA TARAKAN",
+			"idkodepos": "77115",
+			"kodepos": "77115"
+		},
+		{
+			"idkota": "KAB. KAPUAS",
+			"idkodepos": "72113",
+			"kodepos": "72113"
+		},
+		{
+			"idkota": "KAB. PULANG PISAU",
+			"idkodepos": "74813",
+			"kodepos": "74813"
+		},
+		{
+			"idkota": "KAB. BULUNGAN",
+			"idkodepos": "77212",
+			"kodepos": "77212"
+		},
+		{
+			"idkota": "KAB. MALINAU",
+			"idkodepos": "77554",
+			"kodepos": "77554"
+		},
+		{
+			"idkota": "KAB. TANA TIDUNG",
+			"idkodepos": "77152",
+			"kodepos": "77152"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10310",
+			"kodepos": "10310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13340",
+			"kodepos": "13340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12970",
+			"kodepos": "12970"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12710",
+			"kodepos": "12710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12190",
+			"kodepos": "12190"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12940",
+			"kodepos": "12940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12710",
+			"kodepos": "12710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12190",
+			"kodepos": "12190"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12930",
+			"kodepos": "12930"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12940",
+			"kodepos": "12940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "10230",
+			"kodepos": "10230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10220",
+			"kodepos": "10220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10210",
+			"kodepos": "10210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10350",
+			"kodepos": "10350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10270",
+			"kodepos": "10270"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10220",
+			"kodepos": "10220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10220",
+			"kodepos": "10220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10230",
+			"kodepos": "10230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10230",
+			"kodepos": "10230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10250",
+			"kodepos": "10250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10210",
+			"kodepos": "10210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10350",
+			"kodepos": "10350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10230",
+			"kodepos": "10230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "12970",
+			"kodepos": "12970"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "12830",
+			"kodepos": "12830"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12160",
+			"kodepos": "12160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12730",
+			"kodepos": "12730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12160",
+			"kodepos": "12160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12160",
+			"kodepos": "12160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12110",
+			"kodepos": "12110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12160",
+			"kodepos": "12160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12740",
+			"kodepos": "12740"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12560",
+			"kodepos": "12560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12540",
+			"kodepos": "12540"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12720",
+			"kodepos": "12720"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12140",
+			"kodepos": "12140"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12190",
+			"kodepos": "12190"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12130",
+			"kodepos": "12130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12160",
+			"kodepos": "12160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12790",
+			"kodepos": "12790"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12150",
+			"kodepos": "12150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12730",
+			"kodepos": "12730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12410",
+			"kodepos": "12410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12760",
+			"kodepos": "12760"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12110",
+			"kodepos": "12110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12430",
+			"kodepos": "12430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12190",
+			"kodepos": "12190"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12110",
+			"kodepos": "12110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12014",
+			"kodepos": "12014"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10340",
+			"kodepos": "10340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10340",
+			"kodepos": "10340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10310",
+			"kodepos": "10310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10330",
+			"kodepos": "10330"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10320",
+			"kodepos": "10320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10320",
+			"kodepos": "10320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12120",
+			"kodepos": "12120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12230",
+			"kodepos": "12230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12130",
+			"kodepos": "12130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12224",
+			"kodepos": "12224"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11550",
+			"kodepos": "11550"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10270",
+			"kodepos": "10270"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12210",
+			"kodepos": "12210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12240",
+			"kodepos": "12240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12240",
+			"kodepos": "12240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12310",
+			"kodepos": "12310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12330",
+			"kodepos": "12330"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12120",
+			"kodepos": "12120"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15156",
+			"kodepos": "15156"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12110",
+			"kodepos": "12110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "15155",
+			"kodepos": "15155"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12120",
+			"kodepos": "12120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12240",
+			"kodepos": "12240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10210",
+			"kodepos": "10210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10720",
+			"kodepos": "10720"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10210",
+			"kodepos": "10210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10270",
+			"kodepos": "10270"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10220",
+			"kodepos": "10220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11480",
+			"kodepos": "11480"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11480",
+			"kodepos": "11480"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10270",
+			"kodepos": "10270"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11480",
+			"kodepos": "11480"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "11410",
+			"kodepos": "11410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11410",
+			"kodepos": "11410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12190",
+			"kodepos": "12190"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12210",
+			"kodepos": "12210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10270",
+			"kodepos": "10270"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11480",
+			"kodepos": "11480"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12120",
+			"kodepos": "12120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10210",
+			"kodepos": "10210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12810",
+			"kodepos": "12810"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12750",
+			"kodepos": "12750"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13650",
+			"kodepos": "13650"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12940",
+			"kodepos": "12940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13870",
+			"kodepos": "13870"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13610",
+			"kodepos": "13610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12840",
+			"kodepos": "12840"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12810",
+			"kodepos": "12810"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12820",
+			"kodepos": "12820"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12870",
+			"kodepos": "12870"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12710",
+			"kodepos": "12710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12780",
+			"kodepos": "12780"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12780",
+			"kodepos": "12780"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12930",
+			"kodepos": "12930"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12740",
+			"kodepos": "12740"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12770",
+			"kodepos": "12770"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12760",
+			"kodepos": "12760"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12820",
+			"kodepos": "12820"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12940",
+			"kodepos": "12940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13870",
+			"kodepos": "13870"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12870",
+			"kodepos": "12870"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13340",
+			"kodepos": "13340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12780",
+			"kodepos": "12780"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "13570",
+			"kodepos": "13570"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12950",
+			"kodepos": "12950"
+		},
+		{
+			"idkota": "KOTA BITUNG",
+			"idkodepos": "95522",
+			"kodepos": "95522"
+		},
+		{
+			"idkota": "KAB. MINAHASA UTARA",
+			"idkodepos": "95619",
+			"kodepos": "95619"
+		},
+		{
+			"idkota": "KOTA BITUNG",
+			"idkodepos": "95541",
+			"kodepos": "95541"
+		},
+		{
+			"idkota": "KOTA GORONTALO",
+			"idkodepos": "96112",
+			"kodepos": "96112"
+		},
+		{
+			"idkota": "KAB. GORONTALO",
+			"idkodepos": "96211",
+			"kodepos": "96211"
+		},
+		{
+			"idkota": "KOTA GORONTALO",
+			"idkodepos": "96128",
+			"kodepos": "96128"
+		},
+		{
+			"idkota": "KAB. POHUWATO",
+			"idkodepos": "96266",
+			"kodepos": "96266"
+		},
+		{
+			"idkota": "KAB. GORONTALO UTARA",
+			"idkodepos": "96252",
+			"kodepos": "96252"
+		},
+		{
+			"idkota": "KAB. BOALEMO",
+			"idkodepos": "96263",
+			"kodepos": "96263"
+		},
+		{
+			"idkota": "KAB. GORONTALO",
+			"idkodepos": "96181",
+			"kodepos": "96181"
+		},
+		{
+			"idkota": "KOTA KOTAMOBAGU",
+			"idkodepos": "95711",
+			"kodepos": "95711"
+		},
+		{
+			"idkota": "KAB. BOLAANG MONGONDOW",
+			"idkodepos": "95711",
+			"kodepos": "95711"
+		},
+		{
+			"idkota": "KAB. BOLAANG MONGONDOW UTARA",
+			"idkodepos": "95765",
+			"kodepos": "95765"
+		},
+		{
+			"idkota": "KAB. BOLAANG MONGONDOW",
+			"idkodepos": "95782",
+			"kodepos": "95782"
+		},
+		{
+			"idkota": "KAB. BOLAANG MONGONDOW",
+			"idkodepos": "95761",
+			"kodepos": "95761"
+		},
+		{
+			"idkota": "KAB. BANGGAI",
+			"idkodepos": "94711",
+			"kodepos": "94711"
+		},
+		{
+			"idkota": "KAB. BANGGAI",
+			"idkodepos": "94791",
+			"kodepos": "94791"
+		},
+		{
+			"idkota": "KAB. BANGGAI",
+			"idkodepos": "94763",
+			"kodepos": "94763"
+		},
+		{
+			"idkota": "KAB. BANGGAI",
+			"idkodepos": "94762",
+			"kodepos": "94762"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95122",
+			"kodepos": "95122"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95115",
+			"kodepos": "95115"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95115",
+			"kodepos": "95115"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95114",
+			"kodepos": "95114"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95122",
+			"kodepos": "95122"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95374",
+			"kodepos": "95374"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95115",
+			"kodepos": "95115"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95122",
+			"kodepos": "95122"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95122",
+			"kodepos": "95122"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95122",
+			"kodepos": "95122"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95000",
+			"kodepos": "95000"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95000",
+			"kodepos": "95000"
+		},
+		{
+			"idkota": "KOTA MANADO",
+			"idkodepos": "95114",
+			"kodepos": "95114"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94111",
+			"kodepos": "94111"
+		},
+		{
+			"idkota": "KAB. DONGGALA",
+			"idkodepos": "94119",
+			"kodepos": "94119"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94116",
+			"kodepos": "94116"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94223",
+			"kodepos": "94223"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94235",
+			"kodepos": "94235"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94125",
+			"kodepos": "94125"
+		},
+		{
+			"idkota": "KAB. SIGI",
+			"idkodepos": "94367",
+			"kodepos": "94367"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94111",
+			"kodepos": "94111"
+		},
+		{
+			"idkota": "KOTA PALU",
+			"idkodepos": "94143",
+			"kodepos": "94143"
+		},
+		{
+			"idkota": "KAB. PARIGI MOUTONG",
+			"idkodepos": "94371",
+			"kodepos": "94371"
+		},
+		{
+			"idkota": "KAB. PARIGI MOUTONG",
+			"idkodepos": "94373",
+			"kodepos": "94373"
+		},
+		{
+			"idkota": "KAB. POSO",
+			"idkodepos": "94616",
+			"kodepos": "94616"
+		},
+		{
+			"idkota": "KAB. MOROWALI",
+			"idkodepos": "94973",
+			"kodepos": "94973"
+		},
+		{
+			"idkota": "KAB. TOJO UNA UNA",
+			"idkodepos": "94683",
+			"kodepos": "94683"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN SANGIHE",
+			"idkodepos": "95813",
+			"kodepos": "95813"
+		},
+		{
+			"idkota": "KAB. KEPULAUAN SITARO",
+			"idkodepos": "94563",
+			"kodepos": "94563"
+		},
+		{
+			"idkota": "KAB. TOLI-TOLI",
+			"idkodepos": "94514",
+			"kodepos": "94514"
+		},
+		{
+			"idkota": "KAB. BUOL",
+			"idkodepos": "94563",
+			"kodepos": "94563"
+		},
+		{
+			"idkota": "KAB. TOLI-TOLI",
+			"idkodepos": "94554",
+			"kodepos": "94554"
+		},
+		{
+			"idkota": "KOTA TERNATE",
+			"idkodepos": "97713",
+			"kodepos": "97713"
+		},
+		{
+			"idkota": "KAB. HALMAHERA TENGAH",
+			"idkodepos": "97813",
+			"kodepos": "97813"
+		},
+		{
+			"idkota": "KAB. HALMAHERA UTARA",
+			"idkodepos": "97762",
+			"kodepos": "97762"
+		},
+		{
+			"idkota": "KOTA TIDORE KEPULAUAN",
+			"idkodepos": "97827",
+			"kodepos": "97827"
+		},
+		{
+			"idkota": "KAB. HALMAHERA BARAT",
+			"idkodepos": "97752",
+			"kodepos": "97752"
+		},
+		{
+			"idkota": "KAB. PULAU MOROTAI",
+			"idkodepos": "97771",
+			"kodepos": "97771"
+		},
+		{
+			"idkota": "KAB. HALMAHERA TENGAH",
+			"idkodepos": "97853",
+			"kodepos": "97853"
+		},
+		{
+			"idkota": "KAB. HALMAHERA SELATAN",
+			"idkodepos": "97791",
+			"kodepos": "97791"
+		},
+		{
+			"idkota": "KOTA TERNATE",
+			"idkodepos": "97713",
+			"kodepos": "97713"
+		},
+		{
+			"idkota": "KOTA TERNATE",
+			"idkodepos": "97725",
+			"kodepos": "97725"
+		},
+		{
+			"idkota": "KOTA TOMOHON",
+			"idkodepos": "95116",
+			"kodepos": "95116"
+		},
+		{
+			"idkota": "KAB. MINAHASA",
+			"idkodepos": "95168",
+			"kodepos": "95168"
+		},
+		{
+			"idkota": "KAB. MINAHASA",
+			"idkodepos": "95692",
+			"kodepos": "95692"
+		},
+		{
+			"idkota": "KAB. MINAHASA SELATAN",
+			"idkodepos": "95354",
+			"kodepos": "95354"
+		},
+		{
+			"idkota": "KAB. MINAHASA TENGGARA",
+			"idkodepos": "95995",
+			"kodepos": "95995"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11510",
+			"kodepos": "11510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11520",
+			"kodepos": "11520"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11470",
+			"kodepos": "11470"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11620",
+			"kodepos": "11620"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11730",
+			"kodepos": "11730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11840",
+			"kodepos": "11840"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11320",
+			"kodepos": "11320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "90231",
+			"kodepos": "90231"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11610",
+			"kodepos": "11610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11510",
+			"kodepos": "11510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11750",
+			"kodepos": "11750"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11730",
+			"kodepos": "11730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11830",
+			"kodepos": "11830"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11470",
+			"kodepos": "11470"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11480",
+			"kodepos": "11480"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11520",
+			"kodepos": "11520"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11460",
+			"kodepos": "11460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11620",
+			"kodepos": "11620"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11610",
+			"kodepos": "11610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11530",
+			"kodepos": "11530"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11650",
+			"kodepos": "11650"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11610",
+			"kodepos": "11610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11560",
+			"kodepos": "11560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11470",
+			"kodepos": "11470"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11620",
+			"kodepos": "11620"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11620",
+			"kodepos": "11620"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11820",
+			"kodepos": "11820"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11730",
+			"kodepos": "11730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11830",
+			"kodepos": "11830"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11850",
+			"kodepos": "11850"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11510",
+			"kodepos": "11510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11530",
+			"kodepos": "11530"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10130",
+			"kodepos": "10130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10130",
+			"kodepos": "10130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10150",
+			"kodepos": "10150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10150",
+			"kodepos": "10150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11470",
+			"kodepos": "11470"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11440",
+			"kodepos": "11440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10510",
+			"kodepos": "10510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11450",
+			"kodepos": "11450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10160",
+			"kodepos": "10160"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "10120",
+			"kodepos": "10120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11210",
+			"kodepos": "11210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11440",
+			"kodepos": "11440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "50134",
+			"kodepos": "50134"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10150",
+			"kodepos": "10150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "10150",
+			"kodepos": "10150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "10150",
+			"kodepos": "10150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11440",
+			"kodepos": "11440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11440",
+			"kodepos": "11440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11110",
+			"kodepos": "11110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14130",
+			"kodepos": "14130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14460",
+			"kodepos": "14460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11110",
+			"kodepos": "11110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10730",
+			"kodepos": "10730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "11180",
+			"kodepos": "11180"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14420",
+			"kodepos": "14420"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10730",
+			"kodepos": "10730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14440",
+			"kodepos": "14440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11110",
+			"kodepos": "11110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11120",
+			"kodepos": "11120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11150",
+			"kodepos": "11150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "30126",
+			"kodepos": "30126"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10610",
+			"kodepos": "10610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10120",
+			"kodepos": "10120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10710",
+			"kodepos": "10710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10310",
+			"kodepos": "10310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10710",
+			"kodepos": "10710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10410",
+			"kodepos": "10410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11150",
+			"kodepos": "11150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11180",
+			"kodepos": "11180"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "10730",
+			"kodepos": "10730"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10720",
+			"kodepos": "10720"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10740",
+			"kodepos": "10740"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11230",
+			"kodepos": "11230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14460",
+			"kodepos": "14460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11210",
+			"kodepos": "11210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11460",
+			"kodepos": "11460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11230",
+			"kodepos": "11230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14460",
+			"kodepos": "14460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11130",
+			"kodepos": "11130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14430",
+			"kodepos": "14430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14450",
+			"kodepos": "14450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11250",
+			"kodepos": "11250"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "11460",
+			"kodepos": "11460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14460",
+			"kodepos": "14460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA BARAT",
+			"idkodepos": "10410",
+			"kodepos": "10410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14460",
+			"kodepos": "14460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14310",
+			"kodepos": "14310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14310",
+			"kodepos": "14310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14140",
+			"kodepos": "14140"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14260",
+			"kodepos": "14260"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14210",
+			"kodepos": "14210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14150",
+			"kodepos": "14150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14230",
+			"kodepos": "14230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14150",
+			"kodepos": "14150"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14120",
+			"kodepos": "14120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14310",
+			"kodepos": "14310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14140",
+			"kodepos": "14140"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14410",
+			"kodepos": "14410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14320",
+			"kodepos": "14320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14220",
+			"kodepos": "14220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14110",
+			"kodepos": "14110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14350",
+			"kodepos": "14350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16001",
+			"kodepos": "16001"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16143",
+			"kodepos": "16143"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16680",
+			"kodepos": "16680"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16720",
+			"kodepos": "16720"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16164",
+			"kodepos": "16164"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16124",
+			"kodepos": "16124"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16165",
+			"kodepos": "16165"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16143",
+			"kodepos": "16143"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "42166",
+			"kodepos": "42166"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16646",
+			"kodepos": "16646"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16412",
+			"kodepos": "16412"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16750",
+			"kodepos": "16750"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16157",
+			"kodepos": "16157"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "10430",
+			"kodepos": "10430"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16370",
+			"kodepos": "16370"
+		},
+		{
+			"idkota": "KOTA BOGOR",
+			"idkodepos": "16143",
+			"kodepos": "16143"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15125",
+			"kodepos": "15125"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15811",
+			"kodepos": "15811"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15710",
+			"kodepos": "15710"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15325",
+			"kodepos": "15325"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15610",
+			"kodepos": "15610"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15151",
+			"kodepos": "15151"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15810",
+			"kodepos": "15810"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15323",
+			"kodepos": "15323"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15321",
+			"kodepos": "15321"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15810",
+			"kodepos": "15810"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15224",
+			"kodepos": "15224"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15321",
+			"kodepos": "15321"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15154",
+			"kodepos": "15154"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15810",
+			"kodepos": "15810"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15326",
+			"kodepos": "15326"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15325",
+			"kodepos": "15325"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15322",
+			"kodepos": "15322"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15334",
+			"kodepos": "15334"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15310",
+			"kodepos": "15310"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16913",
+			"kodepos": "16913"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16820",
+			"kodepos": "16820"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16918",
+			"kodepos": "16918"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16810",
+			"kodepos": "16810"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16962",
+			"kodepos": "16962"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16810",
+			"kodepos": "16810"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16915",
+			"kodepos": "16915"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16922",
+			"kodepos": "16922"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42414",
+			"kodepos": "42414"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42438",
+			"kodepos": "42438"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42435",
+			"kodepos": "42435"
+		},
+		{
+			"idkota": "KAB. SERANG",
+			"idkodepos": "42166",
+			"kodepos": "42166"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42422",
+			"kodepos": "42422"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42443",
+			"kodepos": "42443"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42443",
+			"kodepos": "42443"
+		},
+		{
+			"idkota": "KOTA CILEGON",
+			"idkodepos": "42423",
+			"kodepos": "42423"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12430",
+			"kodepos": "12430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12450",
+			"kodepos": "12450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "16514",
+			"kodepos": "16514"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15417",
+			"kodepos": "15417"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12520",
+			"kodepos": "12520"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12310",
+			"kodepos": "12310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12550",
+			"kodepos": "12550"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12510",
+			"kodepos": "12510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12440",
+			"kodepos": "12440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "16514",
+			"kodepos": "16514"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12310",
+			"kodepos": "12310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12520",
+			"kodepos": "12520"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15412",
+			"kodepos": "15412"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15419",
+			"kodepos": "15419"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15418",
+			"kodepos": "15418"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12330",
+			"kodepos": "12330"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15224",
+			"kodepos": "15224"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15411",
+			"kodepos": "15411"
+		},
+		{
+			"idkota": "KOTA TANGERANG SELATAN",
+			"idkodepos": "15221",
+			"kodepos": "15221"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12520",
+			"kodepos": "12520"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12560",
+			"kodepos": "12560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12240",
+			"kodepos": "12240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12430",
+			"kodepos": "12430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12310",
+			"kodepos": "12310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12550",
+			"kodepos": "12550"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16423",
+			"kodepos": "16423"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16432",
+			"kodepos": "16432"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16436",
+			"kodepos": "16436"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16158",
+			"kodepos": "16158"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "16411",
+			"kodepos": "16411"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13720",
+			"kodepos": "13720"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16432",
+			"kodepos": "16432"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16146",
+			"kodepos": "16146"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13720",
+			"kodepos": "13720"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "13710",
+			"kodepos": "13710"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16422",
+			"kodepos": "16422"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16416",
+			"kodepos": "16416"
+		},
+		{
+			"idkota": "KOTA SERANG",
+			"idkodepos": "42111",
+			"kodepos": "42111"
+		},
+		{
+			"idkota": "KAB. PANDEGLANG",
+			"idkodepos": "42213",
+			"kodepos": "42213"
+		},
+		{
+			"idkota": "KAB. SERANG",
+			"idkodepos": "42151",
+			"kodepos": "42151"
+		},
+		{
+			"idkota": "KAB. LEBAK",
+			"idkodepos": "42311",
+			"kodepos": "42311"
+		},
+		{
+			"idkota": "KAB. PANDEGLANG",
+			"idkodepos": "42264",
+			"kodepos": "42264"
+		},
+		{
+			"idkota": "Kota Serang",
+			"idkodepos": "42111",
+			"kodepos": "42111"
+		},
+		{
+			"idkota": "KOTA SERANG",
+			"idkodepos": "42118",
+			"kodepos": "42118"
+		},
+		{
+			"idkota": "KAB. SERANG",
+			"idkodepos": "42186",
+			"kodepos": "42186"
+		},
+		{
+			"idkota": "KOTA SERANG",
+			"idkodepos": "42162",
+			"kodepos": "42162"
+		},
+		{
+			"idkota": "Kab. Lebak",
+			"idkodepos": "42391",
+			"kodepos": "42391"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15111",
+			"kodepos": "15111"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15114",
+			"kodepos": "15114"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15117",
+			"kodepos": "15117"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15136",
+			"kodepos": "15136"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19110",
+			"kodepos": "19110"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19101",
+			"kodepos": "19101"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19101",
+			"kodepos": "19101"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15118",
+			"kodepos": "15118"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19110",
+			"kodepos": "19110"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "19110",
+			"kodepos": "19110"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15141",
+			"kodepos": "15141"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15210",
+			"kodepos": "15210"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15560",
+			"kodepos": "15560"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19101",
+			"kodepos": "19101"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "19101",
+			"kodepos": "19101"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15112",
+			"kodepos": "15112"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15112",
+			"kodepos": "15112"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15311",
+			"kodepos": "15311"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15111",
+			"kodepos": "15111"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15157",
+			"kodepos": "15157"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15810",
+			"kodepos": "15810"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15710",
+			"kodepos": "15710"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15114",
+			"kodepos": "15114"
+		},
+		{
+			"idkota": "KOTA TANGERANG",
+			"idkodepos": "15125",
+			"kodepos": "15125"
+		},
+		{
+			"idkota": "KAB. TANGERANG",
+			"idkodepos": "15820",
+			"kodepos": "15820"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16424",
+			"kodepos": "16424"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10440",
+			"kodepos": "10440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12640",
+			"kodepos": "12640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12610",
+			"kodepos": "12610"
+		},
+		{
+			"idkota": "KOTA DEPOK",
+			"idkodepos": "16951",
+			"kodepos": "16951"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12618",
+			"kodepos": "12618"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12630",
+			"kodepos": "12630"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17141",
+			"kodepos": "17141"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17113",
+			"kodepos": "17113"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17411",
+			"kodepos": "17411"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17145",
+			"kodepos": "17145"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17132",
+			"kodepos": "17132"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17116",
+			"kodepos": "17116"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17433",
+			"kodepos": "17433"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17131",
+			"kodepos": "17131"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17134",
+			"kodepos": "17134"
+		},
+		{
+			"idkota": "KAB. BOGOR",
+			"idkodepos": "16967",
+			"kodepos": "16967"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17422",
+			"kodepos": "17422"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17411",
+			"kodepos": "17411"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17121",
+			"kodepos": "17121"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17414",
+			"kodepos": "17414"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17133",
+			"kodepos": "17133"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17414",
+			"kodepos": "17414"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17143",
+			"kodepos": "17143"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17148",
+			"kodepos": "17148"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17134",
+			"kodepos": "17134"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17433",
+			"kodepos": "17433"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17421",
+			"kodepos": "17421"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17151",
+			"kodepos": "17151"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17412",
+			"kodepos": "17412"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "1390",
+			"kodepos": "1390"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10340",
+			"kodepos": "10340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10340",
+			"kodepos": "10340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10350",
+			"kodepos": "10350"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10420",
+			"kodepos": "10420"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10110",
+			"kodepos": "10110"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA SELATAN",
+			"idkodepos": "12920",
+			"kodepos": "12920"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17530",
+			"kodepos": "17530"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17111",
+			"kodepos": "17111"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17530",
+			"kodepos": "17530"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17550",
+			"kodepos": "17550"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17113",
+			"kodepos": "17113"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17510",
+			"kodepos": "17510"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17530",
+			"kodepos": "17530"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17520",
+			"kodepos": "17520"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17550",
+			"kodepos": "17550"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17530",
+			"kodepos": "17530"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17842",
+			"kodepos": "17842"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17520",
+			"kodepos": "17520"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17510",
+			"kodepos": "17510"
+		},
+		{
+			"idkota": "KOTA BEKASI",
+			"idkodepos": "17121",
+			"kodepos": "17121"
+		},
+		{
+			"idkota": "KAB. BEKASI",
+			"idkodepos": "17550",
+			"kodepos": "17550"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13310",
+			"kodepos": "13310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13760",
+			"kodepos": "13760"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13560",
+			"kodepos": "13560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13410",
+			"kodepos": "13410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13540",
+			"kodepos": "13540"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13140",
+			"kodepos": "13140"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13840",
+			"kodepos": "13840"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13560",
+			"kodepos": "13560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13560",
+			"kodepos": "13560"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13530",
+			"kodepos": "13530"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13840",
+			"kodepos": "13840"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13310",
+			"kodepos": "13310"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13630",
+			"kodepos": "13630"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13510",
+			"kodepos": "13510"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13340",
+			"kodepos": "13340"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13330",
+			"kodepos": "13330"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14320",
+			"kodepos": "14320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14240",
+			"kodepos": "14240"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA UTARA",
+			"idkodepos": "14260",
+			"kodepos": "14260"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10720",
+			"kodepos": "10720"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10430",
+			"kodepos": "10430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13610",
+			"kodepos": "13610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10640",
+			"kodepos": "10640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10410",
+			"kodepos": "10410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10640",
+			"kodepos": "10640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10320",
+			"kodepos": "10320"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10610",
+			"kodepos": "10610"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10720",
+			"kodepos": "10720"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10410",
+			"kodepos": "10410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10640",
+			"kodepos": "10640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10570",
+			"kodepos": "10570"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10330",
+			"kodepos": "10330"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10710",
+			"kodepos": "10710"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10640",
+			"kodepos": "10640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10570",
+			"kodepos": "10570"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10520",
+			"kodepos": "10520"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10450",
+			"kodepos": "10450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10410",
+			"kodepos": "10410"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10640",
+			"kodepos": "10640"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13130",
+			"kodepos": "13130"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA PUSAT",
+			"idkodepos": "10570",
+			"kodepos": "10570"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41312",
+			"kodepos": "41312"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41320",
+			"kodepos": "41320"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41352",
+			"kodepos": "41352"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41373",
+			"kodepos": "41373"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41314",
+			"kodepos": "41314"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41373",
+			"kodepos": "41373"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41381",
+			"kodepos": "41381"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41361",
+			"kodepos": "41361"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "43161",
+			"kodepos": "43161"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41361",
+			"kodepos": "41361"
+		},
+		{
+			"idkota": "KAB. KARAWANG",
+			"idkodepos": "41361",
+			"kodepos": "41361"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13220",
+			"kodepos": "13220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13220",
+			"kodepos": "13220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13910",
+			"kodepos": "13910"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13220",
+			"kodepos": "13220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13230",
+			"kodepos": "13230"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13440",
+			"kodepos": "13440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13120",
+			"kodepos": "13120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13430",
+			"kodepos": "13430"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13450",
+			"kodepos": "13450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13220",
+			"kodepos": "13220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13460",
+			"kodepos": "13460"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13920",
+			"kodepos": "13920"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13450",
+			"kodepos": "13450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13120",
+			"kodepos": "13120"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13450",
+			"kodepos": "13450"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13220",
+			"kodepos": "13220"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13210",
+			"kodepos": "13210"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13940",
+			"kodepos": "13940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13440",
+			"kodepos": "13440"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13470",
+			"kodepos": "13470"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "13940",
+			"kodepos": "13940"
+		},
+		{
+			"idkota": "KOTA ADMINISTRASI JAKARTA TIMUR",
+			"idkodepos": "11460",
+			"kodepos": "11460"
+		},
+		{
+			"idkota": "KAB. BIAK NUMFOR",
+			"idkodepos": "98111",
+			"kodepos": "98111"
+		},
+		{
+			"idkota": "KAB. NABIRE",
+			"idkodepos": "98817",
+			"kodepos": "98817"
+		},
+		{
+			"idkota": "KAB. WAROPEN",
+			"idkodepos": "98261",
+			"kodepos": "98261"
+		},
+		{
+			"idkota": "KAB. YAPEN",
+			"idkodepos": "98211",
+			"kodepos": "98211"
+		},
+		{
+			"idkota": "KAB. NABIRE",
+			"idkodepos": "98856",
+			"kodepos": "98856"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99351",
+			"kodepos": "99351"
+		},
+		{
+			"idkota": "KAB. JAYAPURA",
+			"idkodepos": "99352",
+			"kodepos": "99352"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99351",
+			"kodepos": "99351"
+		},
+		{
+			"idkota": "KAB. MIMIKA",
+			"idkodepos": "99910",
+			"kodepos": "99910"
+		},
+		{
+			"idkota": "KAB. KEEROM",
+			"idkodepos": "99468",
+			"kodepos": "99468"
+		},
+		{
+			"idkota": "KAB. SARMI",
+			"idkodepos": "99373",
+			"kodepos": "99373"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99351",
+			"kodepos": "99351"
+		},
+		{
+			"idkota": "KAB. JAYAWIJAYA",
+			"idkodepos": "99501",
+			"kodepos": "99501"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99351",
+			"kodepos": "99351"
+		},
+		{
+			"idkota": "KAB. JAYAPURA",
+			"idkodepos": "99352",
+			"kodepos": "99352"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99111",
+			"kodepos": "99111"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99224",
+			"kodepos": "99224"
+		},
+		{
+			"idkota": "KAB. MIMIKA",
+			"idkodepos": "99910",
+			"kodepos": "99910"
+		},
+		{
+			"idkota": "KAB. MIMIKA",
+			"idkodepos": "99910",
+			"kodepos": "99910"
+		},
+		{
+			"idkota": "KOTA JAYAPURA",
+			"idkodepos": "99351",
+			"kodepos": "99351"
+		},
+		{
+			"idkota": "KAB. JAYAPURA",
+			"idkodepos": "99117",
+			"kodepos": "99117"
+		},
+		{
+			"idkota": "KAB. JAYAPURA",
+			"idkodepos": "99221",
+			"kodepos": "99221"
+		},
+		{
+			"idkota": "KAB. MERAUKE",
+			"idkodepos": "99616",
+			"kodepos": "99616"
+		},
+		{
+			"idkota": "KAB. BOVEN DIGOEL",
+			"idkodepos": "99661",
+			"kodepos": "99661"
+		},
+		{
+			"idkota": "KAB. MERAUKE",
+			"idkodepos": "99611",
+			"kodepos": "99611"
+		},
+		{
+			"idkota": "KAB. BOVEN DIGOEL",
+			"idkodepos": "99663",
+			"kodepos": "99663"
+		},
+		{
+			"idkota": "KAB. MERAUKE",
+			"idkodepos": "99654",
+			"kodepos": "99654"
+		},
+		{
+			"idkota": "KAB. MERAUKE",
+			"idkodepos": "99613",
+			"kodepos": "99613"
+		},
+		{
+			"idkota": "KAB. MERAUKE",
+			"idkodepos": "99616",
+			"kodepos": "99616"
+		},
+		{
+			"idkota": "KAB. MANOKWARI",
+			"idkodepos": "98311",
+			"kodepos": "98311"
+		},
+		{
+			"idkota": "KAB. TELUK BINTUNI",
+			"idkodepos": "98364",
+			"kodepos": "98364"
+		},
+		{
+			"idkota": "KAB. KAIMANA",
+			"idkodepos": "98654",
+			"kodepos": "98654"
+		},
+		{
+			"idkota": "KAB. MANOKWARI",
+			"idkodepos": "98451",
+			"kodepos": "98451"
+		},
+		{
+			"idkota": "KAB. FAKFAK",
+			"idkodepos": "98611",
+			"kodepos": "98611"
+		},
+		{
+			"idkota": "KAB. MANOKWARI",
+			"idkodepos": "98113",
+			"kodepos": "98113"
+		},
+		{
+			"idkota": "KAB. MANOKWARI",
+			"idkodepos": "98312",
+			"kodepos": "98312"
+		},
+		{
+			"idkota": "KOTA SORONG",
+			"idkodepos": "98413",
+			"kodepos": "98413"
+		},
+		{
+			"idkota": "KAB. SORONG",
+			"idkodepos": "98457",
+			"kodepos": "98457"
+		},
+		{
+			"idkota": "KAB. RAJA AMPAT",
+			"idkodepos": "98482",
+			"kodepos": "98482"
+		},
+		{
+			"idkota": "KAB. SORONG SELATAN",
+			"idkodepos": "98454",
+			"kodepos": "98454"
+		},
+		{
+			"idkota": "KOTA SORONG",
+			"idkodepos": "98413",
+			"kodepos": "98413"
+		},
+		{
+			"idkota": "KOTA SORONG",
+			"idkodepos": "98412",
+			"kodepos": "98412"
+		},
+		{
+			"idkota": "KAB. BOYOLALI",
+			"idkodepos": "57313",
+			"kodepos": "57313"
+		},
+		{
+			"idkota": "KAB. BOYOLALI",
+			"idkodepos": "57352",
+			"kodepos": "57352"
+		},
+		{
+			"idkota": "KAB. BOYOLALI",
+			"idkodepos": "57321",
+			"kodepos": "57321"
+		},
+		{
+			"idkota": "KAB. BOYOLALI",
+			"idkodepos": "57381",
+			"kodepos": "57381"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53212",
+			"kodepos": "53212"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53282",
+			"kodepos": "53282"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53287",
+			"kodepos": "53287"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53261",
+			"kodepos": "53261"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53224",
+			"kodepos": "53224"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53273",
+			"kodepos": "53273"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53253",
+			"kodepos": "53253"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53273",
+			"kodepos": "53273"
+		},
+		{
+			"idkota": "KAB. CILACAP",
+			"idkodepos": "53273",
+			"kodepos": "53273"
+		},
+		{
+			"idkota": "KAB. KEBUMEN",
+			"idkodepos": "54311",
+			"kodepos": "54311"
+		},
+		{
+			"idkota": "KAB. KEBUMEN",
+			"idkodepos": "54411",
+			"kodepos": "54411"
+		},
+		{
+			"idkota": "KAB. KEBUMEN",
+			"idkodepos": "54394",
+			"kodepos": "54394"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53195",
+			"kodepos": "53195"
+		},
+		{
+			"idkota": "KAB. KEBUMEN",
+			"idkodepos": "54394",
+			"kodepos": "54394"
+		},
+		{
+			"idkota": "KAB. KEBUMEN",
+			"idkodepos": "54317",
+			"kodepos": "54317"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57451",
+			"kodepos": "57451"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57471",
+			"kodepos": "57471"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57411",
+			"kodepos": "57411"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57468",
+			"kodepos": "57468"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57454",
+			"kodepos": "57454"
+		},
+		{
+			"idkota": "KAB. KLATEN",
+			"idkodepos": "57481",
+			"kodepos": "57481"
+		},
+		{
+			"idkota": "KOTA MAGELANG",
+			"idkodepos": "56117",
+			"kodepos": "56117"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56414",
+			"kodepos": "56414"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56511",
+			"kodepos": "56511"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56172",
+			"kodepos": "56172"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56124",
+			"kodepos": "56124"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56172",
+			"kodepos": "56172"
+		},
+		{
+			"idkota": "KAB. MAGELANG",
+			"idkodepos": "56196",
+			"kodepos": "56196"
+		},
+		{
+			"idkota": "KAB. PURBALINGGA",
+			"idkodepos": "53311",
+			"kodepos": "53311"
+		},
+		{
+			"idkota": "KAB. BANJARNEGARA",
+			"idkodepos": "53411",
+			"kodepos": "53411"
+		},
+		{
+			"idkota": "KAB. PURBALINGGA",
+			"idkodepos": "53353",
+			"kodepos": "53353"
+		},
+		{
+			"idkota": "KAB. BANJARNEGARA",
+			"idkodepos": "53474",
+			"kodepos": "53474"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53115",
+			"kodepos": "53115"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53121",
+			"kodepos": "53121"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53114",
+			"kodepos": "53114"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53176",
+			"kodepos": "53176"
+		},
+		{
+			"idkota": "KAB. BREBES",
+			"idkodepos": "52273",
+			"kodepos": "52273"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53181",
+			"kodepos": "53181"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53163",
+			"kodepos": "53163"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53182",
+			"kodepos": "53182"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53115",
+			"kodepos": "53115"
+		},
+		{
+			"idkota": "KAB. BANYUMAS",
+			"idkodepos": "53161",
+			"kodepos": "53161"
+		},
+		{
+			"idkota": "KAB. PURWOREJO",
+			"idkodepos": "54111",
+			"kodepos": "54111"
+		},
+		{
+			"idkota": "KAB. PURWOREJO",
+			"idkodepos": "54212",
+			"kodepos": "54212"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57111",
+			"kodepos": "57111"
+		},
+		{
+			"idkota": "KAB. KARANGANYAR",
+			"idkodepos": "57712",
+			"kodepos": "57712"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57135",
+			"kodepos": "57135"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57126",
+			"kodepos": "57126"
+		},
+		{
+			"idkota": "KAB. SRAGEN",
+			"idkodepos": "57212",
+			"kodepos": "57212"
+		},
+		{
+			"idkota": "KAB. SUKOHARJO",
+			"idkodepos": "57168",
+			"kodepos": "57168"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57125",
+			"kodepos": "57125"
+		},
+		{
+			"idkota": "KAB. SRAGEN",
+			"idkodepos": "57214",
+			"kodepos": "57214"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57145",
+			"kodepos": "57145"
+		},
+		{
+			"idkota": "KAB. SRAGEN",
+			"idkodepos": "57274",
+			"kodepos": "57274"
+		},
+		{
+			"idkota": "KAB. KARANGANYAR",
+			"idkodepos": "57771",
+			"kodepos": "57771"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57127",
+			"kodepos": "57127"
+		},
+		{
+			"idkota": "KAB. BOYOLALI",
+			"idkodepos": "57375",
+			"kodepos": "57375"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57115",
+			"kodepos": "57115"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57133",
+			"kodepos": "57133"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57155",
+			"kodepos": "57155"
+		},
+		{
+			"idkota": "KAB. SUKOHARJO",
+			"idkodepos": "57162",
+			"kodepos": "57162"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57117",
+			"kodepos": "57117"
+		},
+		{
+			"idkota": "KAB. SUKOHARJO",
+			"idkodepos": "57552",
+			"kodepos": "57552"
+		},
+		{
+			"idkota": "KAB. SUKOHARJO",
+			"idkodepos": "57512",
+			"kodepos": "57512"
+		},
+		{
+			"idkota": "KAB. KARANGANYAR",
+			"idkodepos": "57711",
+			"kodepos": "57711"
+		},
+		{
+			"idkota": "KOTA SURAKARTA",
+			"idkodepos": "57152",
+			"kodepos": "57152"
+		},
+		{
+			"idkota": "KAB. SUKOHARJO",
+			"idkodepos": "57556",
+			"kodepos": "57556"
+		},
+		{
+			"idkota": "KAB. TEMANGGUNG",
+			"idkodepos": "56202",
+			"kodepos": "56202"
+		},
+		{
+			"idkota": "KAB. TEMANGGUNG",
+			"idkodepos": "56254",
+			"kodepos": "56254"
+		},
+		{
+			"idkota": "KAB. TEMANGGUNG",
+			"idkodepos": "56255",
+			"kodepos": "56255"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55281",
+			"kodepos": "55281"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55167",
+			"kodepos": "55167"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55511",
+			"kodepos": "55511"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55283",
+			"kodepos": "55283"
+		},
+		{
+			"idkota": "KAB. KULON PROGO",
+			"idkodepos": "55611",
+			"kodepos": "55611"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55281",
+			"kodepos": "55281"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55283",
+			"kodepos": "55283"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55281",
+			"kodepos": "55281"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55283",
+			"kodepos": "55283"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55231",
+			"kodepos": "55231"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55284",
+			"kodepos": "55284"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55122",
+			"kodepos": "55122"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55584",
+			"kodepos": "55584"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55581",
+			"kodepos": "55581"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55282",
+			"kodepos": "55282"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55223",
+			"kodepos": "55223"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "54312",
+			"kodepos": "54312"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55281",
+			"kodepos": "55281"
+		},
+		{
+			"idkota": "KAB. KULON PROGO",
+			"idkodepos": "55664",
+			"kodepos": "55664"
+		},
+		{
+			"idkota": "KAB. WONOGIRI",
+			"idkodepos": "57651",
+			"kodepos": "57651"
+		},
+		{
+			"idkota": "KAB. WONOGIRI",
+			"idkodepos": "57673",
+			"kodepos": "57673"
+		},
+		{
+			"idkota": "KAB. WONOGIRI",
+			"idkodepos": "57691",
+			"kodepos": "57691"
+		},
+		{
+			"idkota": "KAB. WONOSOBO",
+			"idkodepos": "56311",
+			"kodepos": "56311"
+		},
+		{
+			"idkota": "KAB. WONOSOBO",
+			"idkodepos": "56371",
+			"kodepos": "56371"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55122",
+			"kodepos": "55122"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55262",
+			"kodepos": "55262"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55221",
+			"kodepos": "55221"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55282",
+			"kodepos": "55282"
+		},
+		{
+			"idkota": "KAB. GUNUNGKIDUL",
+			"idkodepos": "55812",
+			"kodepos": "55812"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55187",
+			"kodepos": "55187"
+		},
+		{
+			"idkota": "KAB. BANTUL",
+			"idkodepos": "55711",
+			"kodepos": "55711"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55165",
+			"kodepos": "55165"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55172",
+			"kodepos": "55172"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55284",
+			"kodepos": "55284"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55122",
+			"kodepos": "55122"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55121",
+			"kodepos": "55121"
+		},
+		{
+			"idkota": "KOTA YOGYAKARTA",
+			"idkodepos": "55253",
+			"kodepos": "55253"
+		},
+		{
+			"idkota": "KAB. SLEMAN",
+			"idkodepos": "55000",
+			"kodepos": "55000"
+		},
+		{
+			"idkota": "KAB. BANTUL",
+			"idkodepos": "55792",
+			"kodepos": "55792"
+		},
+		{
+			"idkota": "KAB. KULON PROGO",
+			"idkodepos": "55654",
+			"kodepos": "55654"
+		},
+		{
+			"idkota": "KAB. BANTUL",
+			"idkodepos": "55194",
+			"kodepos": "55194"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65141",
+			"kodepos": "65141"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65145",
+			"kodepos": "65145"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65146",
+			"kodepos": "65146"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65143",
+			"kodepos": "65143"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65114",
+			"kodepos": "65114"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65145",
+			"kodepos": "65145"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65154",
+			"kodepos": "65154"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65149",
+			"kodepos": "65149"
+		},
+		{
+			"idkota": "KAB. LUMAJANG",
+			"idkodepos": "67315",
+			"kodepos": "67315"
+		},
+		{
+			"idkota": "KAB. LUMAJANG",
+			"idkodepos": "67372",
+			"kodepos": "67372"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65119",
+			"kodepos": "65119"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65114",
+			"kodepos": "65114"
+		},
+		{
+			"idkota": "KOTA BATU",
+			"idkodepos": "65314",
+			"kodepos": "65314"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65163",
+			"kodepos": "65163"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65156",
+			"kodepos": "65156"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65118",
+			"kodepos": "65118"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65124",
+			"kodepos": "65124"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65139",
+			"kodepos": "65139"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65221",
+			"kodepos": "65221"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65181",
+			"kodepos": "65181"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65175",
+			"kodepos": "65175"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65148",
+			"kodepos": "65148"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65174",
+			"kodepos": "65174"
+		},
+		{
+			"idkota": "KOTA MALANG",
+			"idkodepos": "65122",
+			"kodepos": "65122"
+		},
+		{
+			"idkota": "KAB. MALANG",
+			"idkodepos": "65171",
+			"kodepos": "65171"
+		},
+		{
+			"idkota": "KAB. PACITAN",
+			"idkodepos": "63511",
+			"kodepos": "63511"
+		},
+		{
+			"idkota": "KAB. PACITAN",
+			"idkodepos": "63512",
+			"kodepos": "63512"
+		},
+		{
+			"idkota": "KAB. PONOROGO",
+			"idkodepos": "63419",
+			"kodepos": "63419"
+		},
+		{
+			"idkota": "KAB. PONOROGO",
+			"idkodepos": "63451",
+			"kodepos": "63451"
+		},
+		{
+			"idkota": "KAB. PONOROGO",
+			"idkodepos": "63473",
+			"kodepos": "63473"
+		},
+		{
+			"idkota": "KAB. PONOROGO",
+			"idkodepos": "63461",
+			"kodepos": "63461"
+		},
+		{
+			"idkota": "KOTA PROBOLINGGO",
+			"idkodepos": "67201",
+			"kodepos": "67201"
+		},
+		{
+			"idkota": "KAB. PROBOLINGGO",
+			"idkodepos": "67282",
+			"kodepos": "67282"
+		},
+		{
+			"idkota": "KAB. PROBOLINGGO",
+			"idkodepos": "67291",
+			"kodepos": "67291"
+		},
+		{
+			"idkota": "KOTA PASURUAN",
+			"idkodepos": "67125",
+			"kodepos": "67125"
+		},
+		{
+			"idkota": "KAB. PASURUAN",
+			"idkodepos": "67153",
+			"kodepos": "67153"
+		},
+		{
+			"idkota": "KAB. PASURUAN",
+			"idkodepos": "67156",
+			"kodepos": "67156"
+		},
+		{
+			"idkota": "KAB. PASURUAN",
+			"idkodepos": "67155",
+			"kodepos": "67155"
+		},
+		{
+			"idkota": "KAB. PASURUAN",
+			"idkodepos": "67155",
+			"kodepos": "67155"
+		},
+		{
+			"idkota": "KAB. TULUNGAGUNG",
+			"idkodepos": "66219",
+			"kodepos": "66219"
+		},
+		{
+			"idkota": "KAB. TRENGGALEK",
+			"idkodepos": "66311",
+			"kodepos": "66311"
+		},
+		{
+			"idkota": "KAB. TULUNGAGUNG",
+			"idkodepos": "66292",
+			"kodepos": "66292"
+		},
+		{
+			"idkota": "KAB. TULUNGAGUNG",
+			"idkodepos": "66274",
+			"kodepos": "66274"
+		},
+		{
+			"idkota": "KOTA BLITAR",
+			"idkodepos": "66111",
+			"kodepos": "66111"
+		},
+		{
+			"idkota": "KAB. BLITAR",
+			"idkodepos": "66184",
+			"kodepos": "66184"
+		},
+		{
+			"idkota": "KAB. BLITAR",
+			"idkodepos": "66152",
+			"kodepos": "66152"
+		},
+		{
+			"idkota": "KAB. BLITAR",
+			"idkodepos": "66172",
+			"kodepos": "66172"
+		},
+		{
+			"idkota": "KAB. BLITAR",
+			"idkodepos": "66191",
+			"kodepos": "66191"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68416",
+			"kodepos": "68416"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68465",
+			"kodepos": "68465"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68451",
+			"kodepos": "68451"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68472",
+			"kodepos": "68472"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68462",
+			"kodepos": "68462"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68486",
+			"kodepos": "68486"
+		},
+		{
+			"idkota": "KAB. BANYUWANGI",
+			"idkodepos": "68451",
+			"kodepos": "68451"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68118",
+			"kodepos": "68118"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68121",
+			"kodepos": "68121"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68155",
+			"kodepos": "68155"
+		},
+		{
+			"idkota": "KAB. BONDOWOSO",
+			"idkodepos": "68214",
+			"kodepos": "68214"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68172",
+			"kodepos": "68172"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68131",
+			"kodepos": "68131"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68152",
+			"kodepos": "68152"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68172",
+			"kodepos": "68172"
+		},
+		{
+			"idkota": "KAB. JEMBER",
+			"idkodepos": "68193",
+			"kodepos": "68193"
+		},
+		{
+			"idkota": "KOTA KEDIRI",
+			"idkodepos": "64123",
+			"kodepos": "64123"
+		},
+		{
+			"idkota": "KAB. NGANJUK",
+			"idkodepos": "64418",
+			"kodepos": "64418"
+		},
+		{
+			"idkota": "KAB. KEDIRI",
+			"idkodepos": "64211",
+			"kodepos": "64211"
+		},
+		{
+			"idkota": "KAB. NGANJUK",
+			"idkodepos": "64311",
+			"kodepos": "64311"
+		},
+		{
+			"idkota": "KAB. NGANJUK",
+			"idkodepos": "64453",
+			"kodepos": "64453"
+		},
+		{
+			"idkota": "KOTA KEDIRI",
+			"idkodepos": "64112",
+			"kodepos": "64112"
+		},
+		{
+			"idkota": "KOTA KEDIRI",
+			"idkodepos": "64131",
+			"kodepos": "64131"
+		},
+		{
+			"idkota": "KOTA KEDIRI",
+			"idkodepos": "64174",
+			"kodepos": "64174"
+		},
+		{
+			"idkota": "KAB. NGANJUK",
+			"idkodepos": "64482",
+			"kodepos": "64482"
+		},
+		{
+			"idkota": "KAB. KEDIRI",
+			"idkodepos": "64294",
+			"kodepos": "64294"
+		},
+		{
+			"idkota": "KOTA KEDIRI",
+			"idkodepos": "64182",
+			"kodepos": "64182"
+		},
+		{
+			"idkota": "KOTA MADIUN",
+			"idkodepos": "63132",
+			"kodepos": "63132"
+		},
+		{
+			"idkota": "KAB. NGAWI",
+			"idkodepos": "63211",
+			"kodepos": "63211"
+		},
+		{
+			"idkota": "KAB. MAGETAN",
+			"idkodepos": "63317",
+			"kodepos": "63317"
+		},
+		{
+			"idkota": "KOTA MADIUN",
+			"idkodepos": "63127",
+			"kodepos": "63127"
+		},
+		{
+			"idkota": "KAB. MADIUN",
+			"idkodepos": "63153",
+			"kodepos": "63153"
+		},
+		{
+			"idkota": "KAB. MADIUN",
+			"idkodepos": "63174",
+			"kodepos": "63174"
+		},
+		{
+			"idkota": "KAB. NGAWI",
+			"idkodepos": "63261",
+			"kodepos": "63261"
+		},
+		{
+			"idkota": "KAB. SITUBONDO",
+			"idkodepos": "68322",
+			"kodepos": "68322"
+		},
+		{
+			"idkota": "KAB. SITUBONDO",
+			"idkodepos": "68356",
+			"kodepos": "68356"
+		}
+	]
+}

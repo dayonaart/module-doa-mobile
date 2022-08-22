@@ -1,0 +1,1 @@
+{"soapenv:Envelope": {"soapenv:Header": null, "soapenv:Body": {"soapenv:Fault": {"faultcode": "m:AppFault", "faultstring": "9001", "detail": {"ne:inquiryAllParamFault1_appFault": {"errorNum": "9001", "errorDescription": "DATA NOT FOUND"}}}}}}

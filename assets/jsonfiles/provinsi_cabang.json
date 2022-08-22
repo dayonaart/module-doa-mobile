@@ -1,0 +1,136 @@
+{
+	"regions": [
+		{
+			"id": "BALI",
+			"provinsi": "BALI"
+		},
+		{
+			"id": "BANGKA BELITUNG",
+			"provinsi": "BANGKA BELITUNG"
+		},
+		{
+			"id": "BANTEN",
+			"provinsi": "BANTEN"
+		},
+		{
+			"id": "BENGKULU",
+			"provinsi": "BENGKULU"
+		},
+		{
+			"id": "DAERAH ISTIMEWA YOGYAKARTA",
+			"provinsi": "DAERAH ISTIMEWA YOGYAKARTA"
+		},
+		{
+			"id": "DKI JAKARTA",
+			"provinsi": "DKI JAKARTA"
+		},
+		{
+			"id": "GORONTALO",
+			"provinsi": "GORONTALO"
+		},
+		{
+			"id": "JAMBI",
+			"provinsi": "JAMBI"
+		},
+		{
+			"id": "JAWA BARAT",
+			"provinsi": "JAWA BARAT"
+		},
+		{
+			"id": "JAWA TENGAH",
+			"provinsi": "JAWA TENGAH"
+		},
+		{
+			"id": "JAWA TIMUR",
+			"provinsi": "JAWA TIMUR"
+		},
+		{
+			"id": "KALIMANTAN BARAT",
+			"provinsi": "KALIMANTAN BARAT"
+		},
+		{
+			"id": "KALIMANTAN SELATAN",
+			"provinsi": "KALIMANTAN SELATAN"
+		},
+		{
+			"id": "KALIMANTAN TENGAH",
+			"provinsi": "KALIMANTAN TENGAH"
+		},
+		{
+			"id": "KALIMANTAN TIMUR",
+			"provinsi": "KALIMANTAN TIMUR"
+		},
+		{
+			"id": "KALIMANTAN UTARA",
+			"provinsi": "KALIMANTAN UTARA"
+		},
+		{
+			"id": "KEPULAUAN RIAU",
+			"provinsi": "KEPULAUAN RIAU"
+		},
+		{
+			"id": "LAMPUNG",
+			"provinsi": "LAMPUNG"
+		},
+		{
+			"id": "MALUKU",
+			"provinsi": "MALUKU"
+		},
+		{
+			"id": "MALUKU UTARA",
+			"provinsi": "MALUKU UTARA"
+		},
+		{
+			"id": "NUSA TENGGARA BARAT",
+			"provinsi": "NUSA TENGGARA BARAT"
+		},
+		{
+			"id": "NUSA TENGGARA TIMUR",
+			"provinsi": "NUSA TENGGARA TIMUR"
+		},
+		{
+			"id": "PAPUA",
+			"provinsi": "PAPUA"
+		},
+		{
+			"id": "PAPUA BARAT",
+			"provinsi": "PAPUA BARAT"
+		},
+		{
+			"id": "RIAU",
+			"provinsi": "RIAU"
+		},
+		{
+			"id": "SULAWESI BARAT",
+			"provinsi": "SULAWESI BARAT"
+		},
+		{
+			"id": "SULAWESI SELATAN",
+			"provinsi": "SULAWESI SELATAN"
+		},
+		{
+			"id": "SULAWESI TENGAH",
+			"provinsi": "SULAWESI TENGAH"
+		},
+		{
+			"id": "SULAWESI TENGGARA",
+			"provinsi": "SULAWESI TENGGARA"
+		},
+		{
+			"id": "SULAWESI UTARA",
+			"provinsi": "SULAWESI UTARA"
+		},
+		{
+			"id": "SUMATERA BARAT",
+			"provinsi": "SUMATERA BARAT"
+		},
+		{
+			"id": "SUMATERA SELATAN",
+			"provinsi": "SUMATERA SELATAN"
+		},
+		{
+			"id": "SUMATERA UTARA",
+			"provinsi": "SUMATERA UTARA"
+		}
+	]
+}

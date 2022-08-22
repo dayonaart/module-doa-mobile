@@ -1,0 +1,1370 @@
+{
+    "bi": 
+    [
+        {
+            "SANDI_BI": "9149",
+            "SANDI_BNI": "001",
+            "NAMA_CABANG": "JAKARTA KOTA",
+            "WIL": "12",
+            "KOTA": "0393"
+        },
+        {
+            "SANDI_BI": "9010",
+            "SANDI_BNI": "002",
+            "NAMA_CABANG": "BANDUNG",
+            "WIL": "04",
+            "KOTA": "0191"
+        },
+        {
+            "SANDI_BI": "9310",
+            "SANDI_BNI": "003",
+            "NAMA_CABANG": "JAMBI",
+            "WIL": "03",
+            "KOTA": "3191"
+        },
+        {
+            "SANDI_BI": "9087",
+            "SANDI_BNI": "004",
+            "NAMA_CABANG": "YOGYAKARTA",
+            "WIL": "17",
+            "KOTA": "0591"
+        },
+        {
+            "SANDI_BI": "9330",
+            "SANDI_BNI": "006",
+            "NAMA_CABANG": "MEDAN",
+            "WIL": "01",
+            "KOTA": "3396"
+        },
+        {
+            "SANDI_BI": "9610",
+            "SANDI_BNI": "007",
+            "NAMA_CABANG": "MAKASSAR",
+            "WIL": "07",
+            "KOTA": "6191"
+        },
+        {
+            "SANDI_BI": "9350",
+            "SANDI_BNI": "008",
+            "NAMA_CABANG": "PEKANBARU",
+            "WIL": "02",
+            "KOTA": "3591"
+        },
+        {
+            "SANDI_BI": "9340",
+            "SANDI_BNI": "009",
+            "NAMA_CABANG": "PADANG",
+            "WIL": "02",
+            "KOTA": "3492"
+        },
+        {
+            "SANDI_BI": "9360",
+            "SANDI_BNI": "010",
+            "NAMA_CABANG": "PALEMBANG",
+            "WIL": "03",
+            "KOTA": "3691"
+        },
+        {
+            "SANDI_BI": "9100",
+            "SANDI_BNI": "011",
+            "NAMA_CABANG": "SURAKARTA",
+            "WIL": "17",
+            "KOTA": "0996"
+        },
+        {
+            "SANDI_BI": "9380",
+            "SANDI_BNI": "012",
+            "NAMA_CABANG": "SIBOLGA",
+            "WIL": "01",
+            "KOTA": "3395"
+        },
+        {
+            "SANDI_BI": "9090",
+            "SANDI_BNI": "013",
+            "NAMA_CABANG": "SEMARANG",
+            "WIL": "05",
+            "KOTA": "0991"
+        },
+        {
+            "SANDI_BI": "9120",
+            "SANDI_BNI": "014",
+            "NAMA_CABANG": "SURABAYA",
+            "WIL": "06",
+            "KOTA": "1291"
+        },
+        {
+            "SANDI_BI": "9510",
+            "SANDI_BNI": "015",
+            "NAMA_CABANG": "BANJARMASIN",
+            "WIL": "09",
+            "KOTA": "5191"
+        },
+        {
+            "SANDI_BI": "9012",
+            "SANDI_BNI": "017",
+            "NAMA_CABANG": "KRAMAT",
+            "WIL": "15",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9620",
+            "SANDI_BNI": "018",
+            "NAMA_CABANG": "MANADO",
+            "WIL": "11",
+            "KOTA": "6291"
+        },
+        {
+            "SANDI_BI": "9140",
+            "SANDI_BNI": "019",
+            "NAMA_CABANG": "CIREBON",
+            "WIL": "04",
+            "KOTA": "0194"
+        },
+        {
+            "SANDI_BI": "9480",
+            "SANDI_BNI": "020",
+            "NAMA_CABANG": "TANJUNG PINANG",
+            "WIL": "02",
+            "KOTA": "3888"
+        },
+        {
+            "SANDI_BI": "9083",
+            "SANDI_BNI": "021",
+            "NAMA_CABANG": "MAGELANG",
+            "WIL": "17",
+            "KOTA": "0995"
+        },
+        {
+            "SANDI_BI": "9004",
+            "SANDI_BNI": "022",
+            "NAMA_CABANG": "MELAWAI RAYA D/H  KEBAYORAN BARU",
+            "WIL": "10",
+            "KOTA": "0394"
+        },
+        {
+            "SANDI_BI": "9530",
+            "SANDI_BNI": "023",
+            "NAMA_CABANG": "PONTIANAK",
+            "WIL": "09",
+            "KOTA": "5391"
+        },
+        {
+            "SANDI_BI": "9002",
+            "SANDI_BNI": "024",
+            "NAMA_CABANG": "TANJUNG PRIOK",
+            "WIL": "12",
+            "KOTA": "0392"
+        },
+        {
+            "SANDI_BI": "9041",
+            "SANDI_BNI": "026",
+            "NAMA_CABANG": "TASIKMALAYA",
+            "WIL": "04",
+            "KOTA": "0195"
+        },
+        {
+            "SANDI_BI": "9370",
+            "SANDI_BNI": "027",
+            "NAMA_CABANG": "RENGAT",
+            "WIL": "02",
+            "KOTA": "3504"
+        },
+        {
+            "SANDI_BI": "9150",
+            "SANDI_BNI": "028",
+            "NAMA_CABANG": "PURWOKERTO",
+            "WIL": "17",
+            "KOTA": "0914"
+        },
+        {
+            "SANDI_BI": "9063",
+            "SANDI_BNI": "030",
+            "NAMA_CABANG": "JEMBER",
+            "WIL": "18",
+            "KOTA": "1212"
+        },
+        {
+            "SANDI_BI": "9167",
+            "SANDI_BNI": "032",
+            "NAMA_CABANG": "GUNUNG SITOLI",
+            "WIL": "01",
+            "KOTA": "3388"
+        },
+        {
+            "SANDI_BI": "9720",
+            "SANDI_BNI": "034",
+            "NAMA_CABANG": "DENPASAR",
+            "WIL": "08",
+            "KOTA": "7291"
+        },
+        {
+            "SANDI_BI": "9560",
+            "SANDI_BNI": "035",
+            "NAMA_CABANG": "SAMPIT",
+            "WIL": "09",
+            "KOTA": "5803"
+        },
+        {
+            "SANDI_BI": "9003",
+            "SANDI_BNI": "037",
+            "NAMA_CABANG": "JATINEGARA",
+            "WIL": "15",
+            "KOTA": "0395"
+        },
+        {
+            "SANDI_BI": "9710",
+            "SANDI_BNI": "038",
+            "NAMA_CABANG": "MATARAM",
+            "WIL": "08",
+            "KOTA": "7191"
+        },
+        {
+            "SANDI_BI": "9680",
+            "SANDI_BNI": "039",
+            "NAMA_CABANG": "GORONTALO",
+            "WIL": "11",
+            "KOTA": "6391"
+        },
+        {
+            "SANDI_BI": "9810",
+            "SANDI_BNI": "041",
+            "NAMA_CABANG": "AMBON",
+            "WIL": "07",
+            "KOTA": "8191"
+        },
+        {
+            "SANDI_BI": "9107",
+            "SANDI_BNI": "042",
+            "NAMA_CABANG": "TANJUNG PERAK SURABAYA",
+            "WIL": "06",
+            "KOTA": "1291"
+        },
+        {
+            "SANDI_BI": "9072",
+            "SANDI_BNI": "043",
+            "NAMA_CABANG": "KUDUS",
+            "WIL": "05",
+            "KOTA": "0909"
+        },
+        {
+            "SANDI_BI": "9160",
+            "SANDI_BNI": "044",
+            "NAMA_CABANG": "CILACAP",
+            "WIL": "17",
+            "KOTA": "0915"
+        },
+        {
+            "SANDI_BI": "9450",
+            "SANDI_BNI": "045",
+            "NAMA_CABANG": "TEMBILAHAN",
+            "WIL": "02",
+            "KOTA": "3505"
+        },
+        {
+            "SANDI_BI": "9029",
+            "SANDI_BNI": "046",
+            "NAMA_CABANG": "SERANG",
+            "WIL": "14",
+            "KOTA": "0293"
+        },
+        {
+            "SANDI_BI": "9440",
+            "SANDI_BNI": "048",
+            "NAMA_CABANG": "KUALA TUNGKAL",
+            "WIL": "03",
+            "KOTA": "3107"
+        },
+        {
+            "SANDI_BI": "9570",
+            "SANDI_BNI": "049",
+            "NAMA_CABANG": "BALIKPAPAN",
+            "WIL": "09",
+            "KOTA": "5492"
+        },
+        {
+            "SANDI_BI": "9490",
+            "SANDI_BNI": "051",
+            "NAMA_CABANG": "TANJUNG BALAI KARIMUN",
+            "WIL": "02",
+            "KOTA": "3801"
+        },
+        {
+            "SANDI_BI": "9290",
+            "SANDI_BNI": "053",
+            "NAMA_CABANG": "KAWASAN INDUSTRI MEDAN ",
+            "WIL": "01",
+            "KOTA": "3301"
+        },
+        {
+            "SANDI_BI": "9135",
+            "SANDI_BNI": "055",
+            "NAMA_CABANG": "BUKITTINGGI",
+            "WIL": "02",
+            "KOTA": "3491"
+        },
+        {
+            "SANDI_BI": "9073",
+            "SANDI_BNI": "057",
+            "NAMA_CABANG": "PEKALONGAN",
+            "WIL": "05",
+            "KOTA": "0993"
+        },
+        {
+            "SANDI_BI": "9240",
+            "SANDI_BNI": "059",
+            "NAMA_CABANG": "DUMAI",
+            "WIL": "02",
+            "KOTA": "3592"
+        },
+        {
+            "SANDI_BI": "9008",
+            "SANDI_BNI": "060",
+            "NAMA_CABANG": "MEGA KUNINGAN D/H DUKUH BAWAH",
+            "WIL": "10",
+            "KOTA": "0394"
+        },
+        {
+            "SANDI_BI": "9025",
+            "SANDI_BNI": "061",
+            "NAMA_CABANG": "BOGOR",
+            "WIL": "14",
+            "KOTA": "0192"
+        },
+        {
+            "SANDI_BI": "9730",
+            "SANDI_BNI": "062",
+            "NAMA_CABANG": "SINGARAJA",
+            "WIL": "08",
+            "KOTA": "7201"
+        },
+        {
+            "SANDI_BI": "9021",
+            "SANDI_BNI": "063",
+            "NAMA_CABANG": "SENAYAN",
+            "WIL": "10",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9157",
+            "SANDI_BNI": "064",
+            "NAMA_CABANG": "TANJUNG BALAI ASAHAN",
+            "WIL": "01",
+            "KOTA": "3388"
+        },
+        {
+            "SANDI_BI": "9205",
+            "SANDI_BNI": "066",
+            "NAMA_CABANG": "SUMBAWA BESAR",
+            "WIL": "08",
+            "KOTA": "7104"
+        },
+        {
+            "SANDI_BI": "9141",
+            "SANDI_BNI": "067",
+            "NAMA_CABANG": "SELAT PANJANG",
+            "WIL": "02",
+            "KOTA": "3588"
+        },
+        {
+            "SANDI_BI": "9185",
+            "SANDI_BNI": "068",
+            "NAMA_CABANG": "PARIGI D/H POSO",
+            "WIL": "11",
+            "KOTA": "6009"
+        },
+        {
+            "SANDI_BI": "9170",
+            "SANDI_BNI": "069",
+            "NAMA_CABANG": "MAJALAYA",
+            "WIL": "04",
+            "KOTA": "0111"
+        },
+        {
+            "SANDI_BI": "9023",
+            "SANDI_BNI": "070",
+            "NAMA_CABANG": "HARMONI",
+            "WIL": "12",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9086",
+            "SANDI_BNI": "072",
+            "NAMA_CABANG": "WONOSOBO",
+            "WIL": "17",
+            "KOTA": "0920"
+        },
+        {
+            "SANDI_BI": "9082",
+            "SANDI_BNI": "073",
+            "NAMA_CABANG": "KEBUMEN",
+            "WIL": "17",
+            "KOTA": "0922"
+        },
+        {
+            "SANDI_BI": "9110",
+            "SANDI_BNI": "074",
+            "NAMA_CABANG": "SUKABUMI",
+            "WIL": "04",
+            "KOTA": "0193"
+        },
+        {
+            "SANDI_BI": "9011",
+            "SANDI_BNI": "076",
+            "NAMA_CABANG": "PASAR MAYESTIK",
+            "WIL": "10",
+            "KOTA": "0394"
+        },
+        {
+            "SANDI_BI": "9690",
+            "SANDI_BNI": "080",
+            "NAMA_CABANG": "KENDARI",
+            "WIL": "07",
+            "KOTA": "6991"
+        },
+        {
+            "SANDI_BI": "9031",
+            "SANDI_BNI": "081",
+            "NAMA_CABANG": "TANGERANG",
+            "WIL": "14",
+            "KOTA": "0292"
+        },
+        {
+            "SANDI_BI": "9180",
+            "SANDI_BNI": "082",
+            "NAMA_CABANG": "SITUBONDO",
+            "WIL": "18",
+            "KOTA": "1230"
+        },
+        {
+            "SANDI_BI": "9510",
+            "SANDI_BNI": "084",
+            "NAMA_CABANG": "PURBALINGGA",
+            "WIL": "17",
+            "KOTA": "0916"
+        },
+        {
+            "SANDI_BI": "9034",
+            "SANDI_BNI": "085",
+            "NAMA_CABANG": "BANJAR",
+            "WIL": "04",
+            "KOTA": "0180"
+        },
+        {
+            "SANDI_BI": "9155",
+            "SANDI_BNI": "088",
+            "NAMA_CABANG": "PADANG SIDEMPUAN",
+            "WIL": "01",
+            "KOTA": "3399"
+        },
+        {
+            "SANDI_BI": "9007",
+            "SANDI_BNI": "089",
+            "NAMA_CABANG": "GAMBIR",
+            "WIL": "15",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9064",
+            "SANDI_BNI": "091",
+            "NAMA_CABANG": "BANYUWANGI",
+            "WIL": "18",
+            "KOTA": "1211"
+        },
+        {
+            "SANDI_BI": "9470",
+            "SANDI_BNI": "093",
+            "NAMA_CABANG": "PEMATANGSIANTAR",
+            "WIL": "01",
+            "KOTA": "3388"
+        },
+        {
+            "SANDI_BI": "9015",
+            "SANDI_BNI": "094",
+            "NAMA_CABANG": "MENTENG",
+            "WIL": "10",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9036",
+            "SANDI_BNI": "095",
+            "NAMA_CABANG": "KARAWANG",
+            "WIL": "15",
+            "KOTA": "0106"
+        },
+        {
+            "SANDI_BI": "9085",
+            "SANDI_BNI": "096",
+            "NAMA_CABANG": "TEMANGGUNG",
+            "WIL": "17",
+            "KOTA": "0919"
+        },
+        {
+            "SANDI_BI": "9880",
+            "SANDI_BNI": "097",
+            "NAMA_CABANG": "TERNATE",
+            "WIL": "11",
+            "KOTA": "8390"
+        },
+        {
+            "SANDI_BI": "9113",
+            "SANDI_BNI": "098",
+            "NAMA_CABANG": "PAMEKASAN D/H MADURA ",
+            "WIL": "06",
+            "KOTA": "1206"
+        },
+        {
+            "SANDI_BI": "9178",
+            "SANDI_BNI": "100",
+            "NAMA_CABANG": "PARE-PARE",
+            "WIL": "07",
+            "KOTA": "6188"
+        },
+        {
+            "SANDI_BI": "9179",
+            "SANDI_BNI": "101",
+            "NAMA_CABANG": "SENGKANG",
+            "WIL": "07",
+            "KOTA": "6103"
+        },
+        {
+            "SANDI_BI": "9035",
+            "SANDI_BNI": "102",
+            "NAMA_CABANG": "GARUT",
+            "WIL": "04",
+            "KOTA": "0114"
+        },
+        {
+            "SANDI_BI": "9042",
+            "SANDI_BNI": "103",
+            "NAMA_CABANG": "CIANJUR",
+            "WIL": "04",
+            "KOTA": "0110"
+        },
+        {
+            "SANDI_BI": "9173",
+            "SANDI_BNI": "106",
+            "NAMA_CABANG": "KOTAMOBAGU",
+            "WIL": "11",
+            "KOTA": "6292"
+        },
+        {
+            "SANDI_BI": "9194",
+            "SANDI_BNI": "108",
+            "NAMA_CABANG": "KETAPANG KALBAR",
+            "WIL": "09",
+            "KOTA": "5303"
+        },
+        {
+            "SANDI_BI": "9080",
+            "SANDI_BNI": "109",
+            "NAMA_CABANG": "PROBOLINGGO",
+            "WIL": "18",
+            "KOTA": "1295"
+        },
+        {
+            "SANDI_BI": "9143",
+            "SANDI_BNI": "111",
+            "NAMA_CABANG": "MUSI PALEMBANG",
+            "WIL": "03",
+            "KOTA": "3691"
+        },
+        {
+            "SANDI_BI": "9060",
+            "SANDI_BNI": "113",
+            "NAMA_CABANG": "KEDIRI",
+            "WIL": "18",
+            "KOTA": "1297"
+        },
+        {
+            "SANDI_BI": "9145",
+            "SANDI_BNI": "116",
+            "NAMA_CABANG": "KOTABUMI",
+            "WIL": "03",
+            "KOTA": "3903"
+        },
+        {
+            "SANDI_BI": "9109",
+            "SANDI_BNI": "117",
+            "NAMA_CABANG": "BOJONEGORO",
+            "WIL": "06",
+            "KOTA": "1227"
+        },
+        {
+            "SANDI_BI": "9047",
+            "SANDI_BNI": "118",
+            "NAMA_CABANG": "INDRAMAYU",
+            "WIL": "04",
+            "KOTA": "0118"
+        },
+        {
+            "SANDI_BI": "9118",
+            "SANDI_BNI": "119",
+            "NAMA_CABANG": "MADIUN",
+            "WIL": "18",
+            "KOTA": "1298"
+        },
+        {
+            "SANDI_BI": "9009",
+            "SANDI_BNI": "120",
+            "NAMA_CABANG": "TEBET",
+            "WIL": "10",
+            "KOTA": "0394"
+        },
+        {
+            "SANDI_BI": "9070",
+            "SANDI_BNI": "121",
+            "NAMA_CABANG": "MALANG",
+            "WIL": "18",
+            "KOTA": "1293"
+        },
+        {
+            "SANDI_BI": "9111",
+            "SANDI_BNI": "123",
+            "NAMA_CABANG": "JOMBANG ",
+            "WIL": "06",
+            "KOTA": "1204"
+        },
+        {
+            "SANDI_BI": "9112",
+            "SANDI_BNI": "124",
+            "NAMA_CABANG": "MOJOKERTO",
+            "WIL": "06",
+            "KOTA": "1292"
+        },
+        {
+            "SANDI_BI": "9236",
+            "SANDI_BNI": "125",
+            "NAMA_CABANG": "CILEGON",
+            "WIL": "14",
+            "KOTA": "0291"
+        },
+        {
+            "SANDI_BI": "9192",
+            "SANDI_BNI": "128",
+            "NAMA_CABANG": "KOTABARU P. LAUT",
+            "WIL": "09",
+            "KOTA": "5108"
+        },
+        {
+            "SANDI_BI": "9016",
+            "SANDI_BNI": "130",
+            "NAMA_CABANG": "PECENONGAN",
+            "WIL": "12",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9048",
+            "SANDI_BNI": "131",
+            "NAMA_CABANG": "KUNINGAN",
+            "WIL": "04",
+            "KOTA": "0117"
+        },
+        {
+            "SANDI_BI": "9660",
+            "SANDI_BNI": "133",
+            "NAMA_CABANG": "LUWUK",
+            "WIL": "11",
+            "KOTA": "6088"
+        },
+        {
+            "SANDI_BI": "9430",
+            "SANDI_BNI": "135",
+            "NAMA_CABANG": "PANGKAL PINANG",
+            "WIL": "03",
+            "KOTA": "3707"
+        },
+        {
+            "SANDI_BI": "9077",
+            "SANDI_BNI": "137",
+            "NAMA_CABANG": "SALATIGA",
+            "WIL": "05",
+            "KOTA": "0992"
+        },
+        {
+            "SANDI_BI": "9084",
+            "SANDI_BNI": "138",
+            "NAMA_CABANG": "PURWOREJO",
+            "WIL": "17",
+            "KOTA": "0921"
+        },
+        {
+            "SANDI_BI": "9630",
+            "SANDI_BNI": "139",
+            "NAMA_CABANG": "BITUNG",
+            "WIL": "11",
+            "KOTA": "6293"
+        },
+        {
+            "SANDI_BI": "9138",
+            "SANDI_BNI": "140",
+            "NAMA_CABANG": "PAYAKUMBUH",
+            "WIL": "02",
+            "KOTA": "3496"
+        },
+        {
+            "SANDI_BI": "9147",
+            "SANDI_BNI": "142",
+            "NAMA_CABANG": "TANJUNG KARANG",
+            "WIL": "03",
+            "KOTA": "3991"
+        },
+        {
+            "SANDI_BI": "9740",
+            "SANDI_BNI": "145",
+            "NAMA_CABANG": "PATI",
+            "WIL": "05",
+            "KOTA": "0908"
+        },
+        {
+            "SANDI_BI": "9071",
+            "SANDI_BNI": "146",
+            "NAMA_CABANG": "JEPARA",
+            "WIL": "05",
+            "KOTA": "0911"
+        },
+        {
+            "SANDI_BI": "9550",
+            "SANDI_BNI": "151",
+            "NAMA_CABANG": "SINGKAWANG",
+            "WIL": "09",
+            "KOTA": "5392"
+        },
+        {
+            "SANDI_BI": "9881",
+            "SANDI_BNI": "155",
+            "NAMA_CABANG": "BANJAR BARU",
+            "WIL": "09",
+            "KOTA": "5192"
+        },
+        {
+            "SANDI_BI": "9165",
+            "SANDI_BNI": "156",
+            "NAMA_CABANG": "BALIGE",
+            "WIL": "01",
+            "KOTA": "3313"
+        },
+        {
+            "SANDI_BI": "9226",
+            "SANDI_BNI": "166",
+            "NAMA_CABANG": "KUALA KAPUAS",
+            "WIL": "09",
+            "KOTA": "5801"
+        },
+        {
+            "SANDI_BI": "9174",
+            "SANDI_BNI": "168",
+            "NAMA_CABANG": "BAU-BAU",
+            "WIL": "07",
+            "KOTA": "6990"
+        },
+        {
+            "SANDI_BI": "9130",
+            "SANDI_BNI": "169",
+            "NAMA_CABANG": "TEGAL",
+            "WIL": "05",
+            "KOTA": "0994"
+        },
+        {
+            "SANDI_BI": "9014",
+            "SANDI_BNI": "172",
+            "NAMA_CABANG": "ROA MALAKA",
+            "WIL": "12",
+            "KOTA": "0393"
+        },
+        {
+            "SANDI_BI": "9151",
+            "SANDI_BNI": "178",
+            "NAMA_CABANG": "SUNGAI PENUH",
+            "WIL": "02",
+            "KOTA": "3188"
+        },
+        {
+            "SANDI_BI": "9037",
+            "SANDI_BNI": "179",
+            "NAMA_CABANG": "PURWAKARTA",
+            "WIL": "04",
+            "KOTA": "0103"
+        },
+        {
+            "SANDI_BI": "9038",
+            "SANDI_BNI": "180",
+            "NAMA_CABANG": "SUMEDANG",
+            "WIL": "04",
+            "KOTA": "0112"
+        },
+        {
+            "SANDI_BI": "9024",
+            "SANDI_BNI": "181",
+            "NAMA_CABANG": "BEKASI",
+            "WIL": "15",
+            "KOTA": "0198"
+        },
+        {
+            "SANDI_BI": "9039",
+            "SANDI_BNI": "182",
+            "NAMA_CABANG": "SUBANG",
+            "WIL": "04",
+            "KOTA": "0121"
+        },
+        {
+            "SANDI_BI": "9117",
+            "SANDI_BNI": "183",
+            "NAMA_CABANG": "BLITAR",
+            "WIL": "18",
+            "KOTA": "1296"
+        },
+        {
+            "SANDI_BI": "9540",
+            "SANDI_BNI": "184",
+            "NAMA_CABANG": "SAMARINDA",
+            "WIL": "09",
+            "KOTA": "5491"
+        },
+        {
+            "SANDI_BI": "9159",
+            "SANDI_BNI": "185",
+            "NAMA_CABANG": "TEBING TINGGI",
+            "WIL": "01",
+            "KOTA": "3391"
+        },
+        {
+            "SANDI_BI": "9640",
+            "SANDI_BNI": "188",
+            "NAMA_CABANG": "TAHUNA",
+            "WIL": "11",
+            "KOTA": "6204"
+        },
+        {
+            "SANDI_BI": "9204",
+            "SANDI_BNI": "190",
+            "NAMA_CABANG": "BIMA",
+            "WIL": "08",
+            "KOTA": "7192"
+        },
+        {
+            "SANDI_BI": "9081",
+            "SANDI_BNI": "191",
+            "NAMA_CABANG": "WONOGIRI",
+            "WIL": "17",
+            "KOTA": "0928"
+        },
+        {
+            "SANDI_BI": "9169",
+            "SANDI_BNI": "193",
+            "NAMA_CABANG": "KABANJAHE",
+            "WIL": "01",
+            "KOTA": "3303"
+        },
+        {
+            "SANDI_BI": "9184",
+            "SANDI_BNI": "197",
+            "NAMA_CABANG": "TOLI-TOLI",
+            "WIL": "11",
+            "KOTA": "6004"
+        },
+        {
+            "SANDI_BI": "9198",
+            "SANDI_BNI": "200",
+            "NAMA_CABANG": "PANGKALAN BUN",
+            "WIL": "09",
+            "KOTA": "5802"
+        },
+        {
+            "SANDI_BI": "9177",
+            "SANDI_BNI": "203",
+            "NAMA_CABANG": "PALOPO",
+            "WIL": "07",
+            "KOTA": "6193"
+        },
+        {
+            "SANDI_BI": "9144",
+            "SANDI_BNI": "204",
+            "NAMA_CABANG": "LUBUK LINGGAU",
+            "WIL": "03",
+            "KOTA": "3693"
+        },
+        {
+            "SANDI_BI": "9091",
+            "SANDI_BNI": "207",
+            "NAMA_CABANG": "KLATEN",
+            "WIL": "17",
+            "KOTA": "0923"
+        },
+        {
+            "SANDI_BI": "9116",
+            "SANDI_BNI": "216",
+            "NAMA_CABANG": "PASURUAN",
+            "WIL": "18",
+            "KOTA": "1294"
+        },
+        {
+            "SANDI_BI": "9187",
+            "SANDI_BNI": "217",
+            "NAMA_CABANG": "POLEWALI",
+            "WIL": "07",
+            "KOTA": "6401"
+        },
+        {
+            "SANDI_BI": "9186",
+            "SANDI_BNI": "221",
+            "NAMA_CABANG": "NUNUKAN",
+            "WIL": "09",
+            "KOTA": "5409"
+        },
+        {
+            "SANDI_BI": "9600",
+            "SANDI_BNI": "222",
+            "NAMA_CABANG": "P A L U",
+            "WIL": "11",
+            "KOTA": "6091"
+        },
+        {
+            "SANDI_BI": "9230",
+            "SANDI_BNI": "223",
+            "NAMA_CABANG": "BENGKULU",
+            "WIL": "03",
+            "KOTA": "2391"
+        },
+        {
+            "SANDI_BI": "9065",
+            "SANDI_BNI": "224",
+            "NAMA_CABANG": "GRESIK",
+            "WIL": "06",
+            "KOTA": "1201"
+        },
+        {
+            "SANDI_BI": "9050",
+            "SANDI_BNI": "225",
+            "NAMA_CABANG": "TARAKAN",
+            "WIL": "09",
+            "KOTA": "5493"
+        },
+        {
+            "SANDI_BI": "9076",
+            "SANDI_BNI": "227",
+            "NAMA_CABANG": "SLAMET RIYADI SOLO D/H PSR. KLEWER",
+            "WIL": "17",
+            "KOTA": "0996"
+        },
+        {
+            "SANDI_BI": "9095",
+            "SANDI_BNI": "228",
+            "NAMA_CABANG": "UNIV. GAJAH MADA YOGYAKARTA",
+            "WIL": "17",
+            "KOTA": "0502"
+        },
+        {
+            "SANDI_BI": "9711",
+            "SANDI_BNI": "229",
+            "NAMA_CABANG": "KUPANG",
+            "WIL": "08",
+            "KOTA": "7491"
+        },
+        {
+            "SANDI_BI": "9885",
+            "SANDI_BNI": "230",
+            "NAMA_CABANG": "SIDOARJO",
+            "WIL": "06",
+            "KOTA": "1202"
+        },
+        {
+            "SANDI_BI": "9541",
+            "SANDI_BNI": "234",
+            "NAMA_CABANG": "TANJUNG REDEB",
+            "WIL": "09",
+            "KOTA": "5402"
+        },
+        {
+            "SANDI_BI": "9056",
+            "SANDI_BNI": "236",
+            "NAMA_CABANG": "PERGURUAN TINGGI BANDUNG",
+            "WIL": "04",
+            "KOTA": "0191"
+        },
+        {
+            "SANDI_BI": "9212",
+            "SANDI_BNI": "237",
+            "NAMA_CABANG": "DAAN MOGOT D/H TOMANG PLAZA ",
+            "WIL": "12",
+            "KOTA": "0393"
+        },
+        {
+            "SANDI_BI": "9331",
+            "SANDI_BNI": "240",
+            "NAMA_CABANG": "KUALA TANJUNG",
+            "WIL": "01",
+            "KOTA": "3388"
+        },
+        {
+            "SANDI_BI": "9216",
+            "SANDI_BNI": "242",
+            "NAMA_CABANG": "TULUNGAGUNG",
+            "WIL": "18",
+            "KOTA": "1219"
+        },
+        {
+            "SANDI_BI": "9019",
+            "SANDI_BNI": "243",
+            "NAMA_CABANG": "RAWAMANGUN",
+            "WIL": "15",
+            "KOTA": "0395"
+        },
+        {
+            "SANDI_BI": "9215",
+            "SANDI_BNI": "244",
+            "NAMA_CABANG": "KARANGAYU",
+            "WIL": "05",
+            "KOTA": "0991"
+        },
+        {
+            "SANDI_BI": "9351",
+            "SANDI_BNI": "245",
+            "NAMA_CABANG": "BATAM",
+            "WIL": "02",
+            "KOTA": "3892"
+        },
+        {
+            "SANDI_BI": "9171",
+            "SANDI_BNI": "248",
+            "NAMA_CABANG": "MATTOANGIN",
+            "WIL": "07",
+            "KOTA": "6191"
+        },
+        {
+            "SANDI_BI": "9221",
+            "SANDI_BNI": "251",
+            "NAMA_CABANG": "FATMAWATI",
+            "WIL": "14",
+            "KOTA": "0394"
+        },
+        {
+            "SANDI_BI": "9217",
+            "SANDI_BNI": "252",
+            "NAMA_CABANG": "CEPU",
+            "WIL": "05",
+            "KOTA": "0913"
+        },
+        {
+            "SANDI_BI": "9218",
+            "SANDI_BNI": "253",
+            "NAMA_CABANG": "BRAWIJAYA",
+            "WIL": "18",
+            "KOTA": "1293"
+        },
+        {
+            "SANDI_BI": "9121",
+            "SANDI_BNI": "255",
+            "NAMA_CABANG": "GRAHA PANGERAN SURABAYA",
+            "WIL": "06",
+            "KOTA": "1291"
+        },
+        {
+            "SANDI_BI": "9040",
+            "SANDI_BNI": "257",
+            "NAMA_CABANG": "BARABAI",
+            "WIL": "09",
+            "KOTA": "5105"
+        },
+        {
+            "SANDI_BI": "9001",
+            "SANDI_BNI": "259",
+            "NAMA_CABANG": "JAKARTA PUSAT",
+            "WIL": "10",
+            "KOTA": "0391"
+        },
+        {
+            "SANDI_BI": "9910",
+            "SANDI_BNI": "261",
+            "NAMA_CABANG": "UNIV. DIPONEGORO SEMARANG",
+            "WIL": "05",
+            "KOTA": "0991"
+        },
+        {
+            "SANDI_BI": "9189",
+            "SANDI_BNI": "265",
+            "NAMA_CABANG": "UNIVERSITAS SUMATERA UTARA MEDAN",
+            "WIL": "01",
+            "KOTA": "3396"
+        },
+        {
+            "SANDI_BI": "9152",
+            "SANDI_BNI": "268",
+            "NAMA_CABANG": "JAYAPURA",
+            "WIL": "16",
+            "KOTA": "8291"
+        },
+        {
+            "SANDI_BI": "9219",
+            "SANDI_BNI": "269",
+            "NAMA_CABANG": "JL. PERINTIS KEMERDEKAAN BDG",
+            "WIL": "04",
+            "KOTA": "0191"
+        },
+        {
+            "SANDI_BI": "9223",
+            "SANDI_BNI": "273",
+            "NAMA_CABANG": "UI  DEPOK",
+            "WIL": "14",
+            "KOTA": "0197"
+        },
+        {
+            "SANDI_BI": "9200",
+            "SANDI_BNI": "276",
+            "NAMA_CABANG": "TUBAN",
+            "WIL": "06",
+            "KOTA": "1228"
+        },
+        {
+            "SANDI_BI": "9226",
+            "SANDI_BNI": "278",
+            "NAMA_CABANG": "PALANGKARAYA",
+            "WIL": "09",
+            "KOTA": "5892"
+        },
+        {
+            "SANDI_BI": "9227",
+            "SANDI_BNI": "279",
+            "NAMA_CABANG": "SORONG",
+            "WIL": "16",
+            "KOTA": "8491"
+        },
+        {
+            "SANDI_BI": "9972",
+            "SANDI_BNI": "280",
+            "NAMA_CABANG": "BANGKO",
+            "WIL": "03",
+            "KOTA": "3111"
+        },
+        {
+            "SANDI_BI": "9975",
+            "SANDI_BNI": "282",
+            "NAMA_CABANG": "RANTAU PRAPAT",
+            "WIL": "01",
+            "KOTA": "3388"
+        },
+        {
+            "SANDI_BI": "9712",
+            "SANDI_BNI": "284",
+            "NAMA_CABANG": "ENDE",
+            "WIL": "08",
+            "KOTA": "7408"
+        },
+        {
+            "SANDI_BI": "9943",
+            "SANDI_BNI": "285",
+            "NAMA_CABANG": "MARGONDA",
+            "WIL": "14",
+            "KOTA": "0197"
+        },
+        {
+            "SANDI_BI": "9581",
+            "SANDI_BNI": "288",
+            "NAMA_CABANG": "PONOROGO",
+            "WIL": "18",
+            "KOTA": "1225"
+        },
+        {
+            "SANDI_BI": "9229",
+            "SANDI_BNI": "289",
+            "NAMA_CABANG": "METRO",
+            "WIL": "03",
+            "KOTA": "3992"
+        },
+        {
+            "SANDI_BI": "9713",
+            "SANDI_BNI": "290",
+            "NAMA_CABANG": "MAUMERE",
+            "WIL": "08",
+            "KOTA": "7407"
+        },
+        {
+            "SANDI_BI": "9580",
+            "SANDI_BNI": "292",
+            "NAMA_CABANG": "LUMAJANG",
+            "WIL": "18",
+            "KOTA": "1216"
+        },
+        {
+            "SANDI_BI": "9973",
+            "SANDI_BNI": "293",
+            "NAMA_CABANG": "KAYU AGUNG",
+            "WIL": "03",
+            "KOTA": "3611"
+        },
+        {
+            "SANDI_BI": "9977",
+            "SANDI_BNI": "294",
+            "NAMA_CABANG": "PRABUMULIH",
+            "WIL": "03",
+            "KOTA": "3694"
+        },
+        {
+            "SANDI_BI": "9976",
+            "SANDI_BNI": "295",
+            "NAMA_CABANG": "BATURAJA",
+            "WIL": "03",
+            "KOTA": "3607"
+        },
+        {
+            "SANDI_BI": "9231",
+            "SANDI_BNI": "297",
+            "NAMA_CABANG": "BONTANG",
+            "WIL": "09",
+            "KOTA": "5494"
+        },
+        {
+            "SANDI_BI": "9978",
+            "SANDI_BNI": "298",
+            "NAMA_CABANG": "MANOKWARI",
+            "WIL": "16",
+            "KOTA": "8403"
+        },
+        {
+            "SANDI_BI": "9979",
+            "SANDI_BNI": "299",
+            "NAMA_CABANG": "BIAK",
+            "WIL": "16",
+            "KOTA": "8202"
+        },
+        {
+            "SANDI_BI": "9233",
+            "SANDI_BNI": "300",
+            "NAMA_CABANG": "MERAUKE",
+            "WIL": "16",
+            "KOTA": "8211"
+        },
+        {
+            "SANDI_BI": "9232",
+            "SANDI_BNI": "301",
+            "NAMA_CABANG": "BULUKUMBA",
+            "WIL": "07",
+            "KOTA": "6111"
+        },
+        {
+            "SANDI_BI": "9604",
+            "SANDI_BNI": "302",
+            "NAMA_CABANG": "RENON",
+            "WIL": "08",
+            "KOTA": "7291"
+        },
+        {
+            "SANDI_BI": "9491",
+            "SANDI_BNI": "303",
+            "NAMA_CABANG": "MUARA BUNGO",
+            "WIL": "03",
+            "KOTA": "3188"
+        },
+        {
+            "SANDI_BI": "9980",
+            "SANDI_BNI": "304",
+            "NAMA_CABANG": "SOLOK",
+            "WIL": "02",
+            "KOTA": "3495"
+        },
+        {
+            "SANDI_BI": "9571",
+            "SANDI_BNI": "306",
+            "NAMA_CABANG": "MUARA TEWEH",
+            "WIL": "09",
+            "KOTA": "5808"
+        },
+        {
+            "SANDI_BI": "9572",
+            "SANDI_BNI": "307",
+            "NAMA_CABANG": "MAMUJU",
+            "WIL": "07",
+            "KOTA": "6488"
+        },
+        {
+            "SANDI_BI": "9542",
+            "SANDI_BNI": "308",
+            "NAMA_CABANG": "SINTANG ",
+            "WIL": "09",
+            "KOTA": "5305"
+        },
+        {
+            "SANDI_BI": "9234",
+            "SANDI_BNI": "309",
+            "NAMA_CABANG": "KELAPA GADING",
+            "WIL": "15",
+            "KOTA": "0392"
+        },
+        {
+            "SANDI_BI": "9265",
+            "SANDI_BNI": "310",
+            "NAMA_CABANG": "BUMI SERPONG DAMAI",
+            "WIL": "14",
+            "KOTA": "0292"
+        },
+        {
+            "SANDI_BI": "9235",
+            "SANDI_BNI": "311",
+            "NAMA_CABANG": "JABABEKA",
+            "WIL": "15",
+            "KOTA": "0102"
+        },
+        {
+            "SANDI_BI": "9242",
+            "SANDI_BNI": "312",
+            "NAMA_CABANG": "KENDAL",
+            "WIL": "05",
+            "KOTA": "0902"
+        },
+        {
+            "SANDI_BI": "9237",
+            "SANDI_BNI": "313",
+            "NAMA_CABANG": "CIBINONG",
+            "WIL": "14",
+            "KOTA": "0108"
+        },
+        {
+            "SANDI_BI": "9239",
+            "SANDI_BNI": "314",
+            "NAMA_CABANG": "BOYOLALI",
+            "WIL": "17",
+            "KOTA": "0924"
+        },
+        {
+            "SANDI_BI": "9238",
+            "SANDI_BNI": "315",
+            "NAMA_CABANG": "PACITAN",
+            "WIL": "18",
+            "KOTA": "1226"
+        },
+        {
+            "SANDI_BI": "9550",
+            "SANDI_BNI": "316",
+            "NAMA_CABANG": "SAMBAS",
+            "WIL": "09",
+            "KOTA": "5302"
+        },
+        {
+            "SANDI_BI": "9540",
+            "SANDI_BNI": "317",
+            "NAMA_CABANG": "TOMOHON",
+            "WIL": "11",
+            "KOTA": "6294"
+        },
+        {
+            "SANDI_BI": "9541",
+            "SANDI_BNI": "318",
+            "NAMA_CABANG": "TANJUNG SELOR",
+            "WIL": "09",
+            "KOTA": "5404"
+        },
+        {
+            "SANDI_BI": "9121",
+            "SANDI_BNI": "319",
+            "NAMA_CABANG": "HR MUHAMMAD",
+            "WIL": "06",
+            "KOTA": "1291"
+        },
+        {
+            "SANDI_BI": "9592",
+            "SANDI_BNI": "321",
+            "NAMA_CABANG": "LAMONGAN",
+            "WIL": "06",
+            "KOTA": "1229"
+        }
+    ]
+}
